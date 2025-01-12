@@ -1,12 +1,4 @@
----
-icon: compass-drafting
-description: Logos, menus, event flyers
----
+# Overview
 
-# Graphic design work
+Portfolio of all art & design work & play by Phlowyd Design.
 
-sample of portfolio here
-
-link to main portfolio site in phlowyd design gitbook
-
-link to behance profile

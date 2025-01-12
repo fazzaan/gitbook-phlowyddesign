@@ -1,10 +1,12 @@
 # Table of contents
 
+* [Overview](README.md)
+
 ## Portfolio
 
-* [Graphic design work](README.md)
-  * [Menus](portfolio/graphic-design/readme.md)
-  * [Event marketing](portfolio/graphic-design/event-marketing.md)
+* [Graphic design work](portfolio/graphic-design.md)
+  * [Menus](<README (1).md>)
+  * [Event marketing](portfolio/event-marketing.md)
 * [🅰️ Font Design](portfolio/font-design.md)
 * [✒️ Scripts & Alphabets](portfolio/scripts-and-alphabets.md)
 * [🎨 Art](portfolio/art.md)
