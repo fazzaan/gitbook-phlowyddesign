@@ -1,6 +1,6 @@
 # Runic
 
-<div data-full-width="false"><figure><img src="../../.gitbook/assets/Runic%20Font%20Cover%20landscape.svg" alt=""><figcaption><p>d</p></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/Runic Font Cover landscape.svg" alt=""><figcaption><p>d</p></figcaption></figure></div>
 
 | Name              | Runic                                                                  |
 | ----------------- | ---------------------------------------------------------------------- |
