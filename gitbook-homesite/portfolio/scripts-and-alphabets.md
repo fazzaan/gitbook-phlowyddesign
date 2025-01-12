@@ -1,4 +1,4 @@
-# Scripts & Alphabets
+# ✒️ Scripts & Alphabets
 
 Some are just teeny ideas
 

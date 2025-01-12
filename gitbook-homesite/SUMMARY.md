@@ -2,11 +2,11 @@
 
 ## Portfolio
 
-* [Menus](README.md)
-* [Event marketing](portfolio/event-marketing.md)
+* [Graphic design work](README.md)
+  * [Menus](portfolio/graphic-design/readme.md)
+  * [Event marketing](portfolio/graphic-design/event-marketing.md)
 * [🅰️ Font Design](portfolio/font-design.md)
-* [Scripts & Alphabets](portfolio/scripts-and-alphabets.md)
-* [Graphic design work](portfolio/graphic-design.md)
+* [✒️ Scripts & Alphabets](portfolio/scripts-and-alphabets.md)
 * [🎨 Art](portfolio/art.md)
 * [🎉 Event décor](portfolio/event-decor.md)
 * [🤹 Flow arts](portfolio/flow-arts.md)

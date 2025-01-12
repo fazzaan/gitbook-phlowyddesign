@@ -1,5 +1,12 @@
-# Menus
+---
+icon: compass-drafting
+description: Logos, menus, event flyers
+---
 
-BoBo restaurant menus
+# Graphic design work
 
-and others
+sample of portfolio here
+
+link to main portfolio site in phlowyd design gitbook
+
+link to behance profile
