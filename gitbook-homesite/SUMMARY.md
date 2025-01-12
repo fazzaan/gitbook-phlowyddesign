@@ -4,9 +4,12 @@
 
 * [Menus](README.md)
 * [Event marketing](portfolio/event-marketing.md)
-* [Fonts](portfolio/fonts.md)
+* [🅰️ Font Design](portfolio/font-design.md)
 * [Scripts & Alphabets](portfolio/scripts-and-alphabets.md)
-* [Space décor](portfolio/space-decor.md)
+* [Graphic design work](portfolio/graphic-design.md)
+* [🎨 Art](portfolio/art.md)
+* [🎉 Event décor](portfolio/event-decor.md)
+* [🤹 Flow arts](portfolio/flow-arts.md)
 
 ## Methods
 
