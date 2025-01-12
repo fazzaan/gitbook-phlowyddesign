@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Phlowyd Design Homepage](README.md)
 
 ## Portfolio
 
@@ -20,14 +20,15 @@
 * [🎉 Event décor](portfolio/event-decor.md)
 * [🤹 Flow arts](portfolio/flow-arts.md)
 
+## Design Styles
+
+* [Human-Centric Design](design-styles/human-centric-design.md)
+* [Componentising](design-styles/componentising.md)
+
 ## Methods
 
 * [Best Practices](methods/best-practices.md)
 * [Page 2](methods/page-2.md)
-
-## Design Styles
-
-* [Human-Centric Design](design-styles/human-centric-design.md)
 
 ## Software
 
@@ -36,6 +37,7 @@
   * [Inkscape](software/my-suite/inkscape.md)
   * [Blender](software/my-suite/blender.md)
   * [PowerToys](software/my-suite/powertoys.md)
+  * [Figma](software/my-suite/figma.md)
 
 ## Hardware
 

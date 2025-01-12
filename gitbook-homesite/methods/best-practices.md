@@ -20,3 +20,11 @@ Apps I have experience with:
 * Inkscape
 * Figma
 * Blender
+
+### Ideas
+
+* non-destructive editing _always_&#x20;
+* naming layers and groups effectively
+* naming files effectively
+* layered effects to produce combined effects&#x20;
+* threshhold gradient cadence etc — where to put this?&#x20;
