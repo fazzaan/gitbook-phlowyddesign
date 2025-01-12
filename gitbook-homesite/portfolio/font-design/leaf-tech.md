@@ -1,3 +1,7 @@
+---
+icon: envira
+---
+
 # Leaf Tech
 
 <div data-full-width="true"><figure><img src="../../.gitbook/assets/Leaf Tech Font Cover landscape.svg" alt=""><figcaption></figcaption></figure></div>

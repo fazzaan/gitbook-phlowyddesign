@@ -1,4 +1,4 @@
-# Thaiic
+# 🇹🇭 Thaiic
 
 <div data-full-width="true"><figure><img src="../../.gitbook/assets/Thaiic Font Cover landscape.svg" alt=""><figcaption></figcaption></figure></div>
 

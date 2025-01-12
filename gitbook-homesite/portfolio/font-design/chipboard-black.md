@@ -1,3 +1,7 @@
+---
+icon: microchip
+---
+
 # Chipboard Black
 
 <div data-full-width="true"><figure><img src="../../.gitbook/assets/Chipboard Black Font Cover landscape.svg" alt=""><figcaption></figcaption></figure></div>

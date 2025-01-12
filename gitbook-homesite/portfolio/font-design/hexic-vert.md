@@ -1,3 +1,7 @@
+---
+icon: hexagon
+---
+
 # Hexic Vert
 
 <div data-full-width="true"><figure><img src="../../.gitbook/assets/Hexic%20Vert%20Font%20Cover%20landscape.svg" alt=""><figcaption></figcaption></figure></div>

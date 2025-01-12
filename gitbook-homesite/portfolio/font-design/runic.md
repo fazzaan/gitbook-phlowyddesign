@@ -1,3 +1,7 @@
+---
+icon: hat-wizard
+---
+
 # Runic
 
 <div data-full-width="false"><figure><img src="../../.gitbook/assets/Runic Font Cover landscape.svg" alt=""><figcaption><p>d</p></figcaption></figure></div>

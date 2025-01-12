@@ -1,4 +1,4 @@
-# Hangeulic
+# 🇰🇷 Hangeulic
 
 <div data-full-width="true"><figure><img src="../../.gitbook/assets/Hangeulic Font Cover landscape.svg" alt=""><figcaption></figcaption></figure></div>
 
