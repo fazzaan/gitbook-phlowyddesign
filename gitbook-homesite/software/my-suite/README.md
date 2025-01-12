@@ -1,17 +1,5 @@
 # My suite
 
-my chosen daily driver apps
-
-My system configuration
-
-My keyboard modifications - wincompose, layouts, powertoys shortcuts
-
-sub pages about how I use each app, preferences etc
-
-my OS setup&#x20;
-
-
-
 Getting started can be a bit of a headache.&#x20;
 
 Let's talk about my setup, and you can copy it or use some of the ideas to help you get started quicker.
@@ -21,6 +9,8 @@ Let's talk about my setup, and you can copy it or use some of the ideas to help 
 ## Applications
 
 My main apps for graphic design are Photoshop and Inkscape.
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Photoshop</strong></td><td>go torrent it or something</td><td></td><td><a href="../../.gitbook/assets/Adobe_Photoshop_CC_icon.svg">Adobe_Photoshop_CC_icon.svg</a></td></tr><tr><td><strong>Inkscape</strong></td><td>You can download this for free</td><td><a href="https://inkscape.org/release/">https://inkscape.org/release/</a></td><td><a href="../../.gitbook/assets/Inkscape_Logo.svg">Inkscape_Logo.svg</a></td></tr><tr><td><strong>PowerToys</strong></td><td>Freely available from Microsoft</td><td><a href="https://learn.microsoft.com/en-us/windows/powertoys/install">https://learn.microsoft.com/en-us/windows/powertoys/install</a></td><td><a href="../../.gitbook/assets/PowerToys_UWP_Assets.svg">PowerToys_UWP_Assets.svg</a></td></tr><tr><td><strong>Blender</strong></td><td>This is free, open source software</td><td><a href="https://www.blender.org/download/">https://www.blender.org/download/</a></td><td><a href="../../.gitbook/assets/Blender_logo_no_text.svg">Blender_logo_no_text.svg</a></td></tr></tbody></table>
 
 ### _I don't use Illustrator_
 
@@ -46,5 +36,12 @@ I don't do much 3D work but I've tinkered with Blender on and off for a few year
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Photoshop</strong></td><td>go torrent it or something</td><td></td><td><a href="../.gitbook/assets/Adobe_Photoshop_CC_icon.svg">Adobe_Photoshop_CC_icon.svg</a></td></tr><tr><td><strong>Inkscape</strong></td><td>You can download this for free</td><td><a href="https://inkscape.org/release/">https://inkscape.org/release/</a></td><td><a href="../.gitbook/assets/Inkscape_Logo.svg">Inkscape_Logo.svg</a></td></tr><tr><td><strong>PowerToys</strong></td><td>Freely available from Microsoft</td><td><a href="https://learn.microsoft.com/en-us/windows/powertoys/install">https://learn.microsoft.com/en-us/windows/powertoys/install</a></td><td><a href="../.gitbook/assets/PowerToys_UWP_Assets.svg">PowerToys_UWP_Assets.svg</a></td></tr><tr><td><strong>Blender</strong></td><td>This is free, open source software</td><td><a href="https://www.blender.org/download/">https://www.blender.org/download/</a></td><td><a href="../.gitbook/assets/Blender_logo_no_text.svg">Blender_logo_no_text.svg</a></td></tr></tbody></table>
+***
 
+#### to do
+
+* [x] The apps I use
+* [ ] My system configuration
+* [ ] My keyboard modifications — wincompose, layouts, powertoys shortcuts
+* [ ] sub pages about how I use each app, preferences etc
+* [ ] my OS setup&#x20;

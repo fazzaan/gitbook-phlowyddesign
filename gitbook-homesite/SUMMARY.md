@@ -24,7 +24,11 @@
 
 ## Software
 
-* [My suite](software/my-suite.md)
+* [My suite](software/my-suite/README.md)
+  * [Photoshop](software/my-suite/photoshop.md)
+  * [Inkscape](software/my-suite/inkscape.md)
+  * [Blender](software/my-suite/blender.md)
+  * [PowerToys](software/my-suite/powertoys.md)
 
 ## Hardware
 
