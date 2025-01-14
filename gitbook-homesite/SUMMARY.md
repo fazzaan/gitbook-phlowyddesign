@@ -28,7 +28,7 @@
 ## Methods
 
 * [Best Practices](methods/best-practices.md)
-* [Page 2](methods/page-2.md)
+* [Creativity Methods](methods/page-2.md)
 
 ## Software
 
