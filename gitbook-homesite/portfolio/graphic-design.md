@@ -1,12 +1,38 @@
 ---
-description: Logos, menus, event flyers
 icon: compass-drafting
+description: Logos, menus, event flyers
 ---
 
 # Graphic design work
 
-sample of portfolio here
+* link to behance profile
 
-link to main portfolio site in phlowyd design gitbook
 
-link to behance profile
+
+<table><thead><tr><th>Client</th><th>Title</th><th>Item</th><th>Date</th><th>Location</th><th>Tools used<select multiple><option value="ho1gctWVdhUC" label="Blender" color="blue"></option><option value="FRkdEdNAcdwN" label="Inkscape" color="blue"></option><option value="9k3ASTGz3h5n" label="Figma" color="blue"></option><option value="5QckY43k6ESW" label="Mandelbulb" color="blue"></option><option value="q6SmeA27Fy3o" label="Photoshop" color="blue"></option><option value="SBHyQL5sP4xT" label="FontForge" color="blue"></option><option value="80U24F7meX6D" label="Hammer" color="blue"></option><option value="AyWsvqcnHZxO" label="Saw" color="blue"></option><option value="qLVnFv0hJMWz" label="Drill" color="blue"></option></select></th><th>Materials used<select multiple><option value="1Nk0WDIPvii4" label="Wood" color="blue"></option><option value="gOC9EBRrB85q" label="Wool" color="blue"></option><option value="VtGzqnGjQfcg" label="Metal" color="blue"></option><option value="Q4uhkUVcSPTF" label="Plastic" color="blue"></option><option value="JS32Waoyo4mi" label="Fabric" color="blue"></option><option value="JuNOv8QlgDfh" label="Dye" color="blue"></option><option value="bOKyea6kCLLP" label="Wire" color="blue"></option><option value="OQTtDxIKbbVO" label="Bamboo" color="blue"></option><option value="uBLgbPrjem6v" label="Paint" color="blue"></option><option value="IpmnF02nJHYh" label="Craft supplies" color="blue"></option><option value="dOtfNtHlupcd" label="Glue" color="blue"></option></select></th><th data-type="number">Work hours</th><th data-type="files">Cover image</th><th data-type="content-ref">Link to portfolio section</th><th data-type="content-ref">Bēhance</th></tr></thead><tbody><tr><td>BoBo Food</td><td></td><td>New menu</td><td>November 2024</td><td>Đà Nẵng, Việt Nam</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td></td><td>null</td><td></td><td></td><td></td></tr><tr><td>BoBo Food</td><td></td><td>Pizza menu</td><td>October 2024</td><td>Đà Nẵng, Việt Nam</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td></td><td>null</td><td></td><td></td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-1">Deep Sea Frequencies</a></td><td>PsyJelly 20th Edition event</td><td>Event flyer</td><td>September 2024</td><td>Bristol, UK</td><td></td><td></td><td>null</td><td></td><td></td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-2">Deep Sea Frequencies</a></td><td>PsyJelly 19 — Live music with MantisMash &#x26; Pangani</td><td>Event flyer</td><td>December 2023</td><td>Bristol, UK</td><td></td><td></td><td>null</td><td></td><td></td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-3">Deep Sea Frequencies</a></td><td>PsyJelly 18 — Culprate, Shankara, Beatroots</td><td>Event flyer</td><td>September 2023</td><td>Bristol, UK</td><td></td><td></td><td>null</td><td></td><td></td><td></td></tr><tr><td>Pitch Black</td><td>Pitch Black Exodus tour and The MoonRakers</td><td>Event flyer</td><td>April 2023</td><td>Bristol, UK</td><td></td><td></td><td>null</td><td></td><td></td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-4">Deep Sea Frequencies</a></td><td>PsyJelly 17 — Live music (second edition) — Kaya Project, Nango Manchay</td><td>Event flyer</td><td>December 2022</td><td>Bristol, UK</td><td><span data-option="5QckY43k6ESW">Mandelbulb, </span><span data-option="ho1gctWVdhUC">Blender, </span><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td></td><td>null</td><td></td><td></td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-5">Deep Sea Frequencies</a></td><td>PsyJelly 16 — Halfred, Iacchus, Ekorce — 5th Birthday Bash</td><td>Event flyer</td><td>February 2022</td><td>Bristol, UK</td><td><span data-option="ho1gctWVdhUC">Blender, </span><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td></td><td>null</td><td></td><td></td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-6">Deep Sea Frequencies</a></td><td>PsyJelly 15 — Globular &#x26; Geoglyph</td><td>Event flyer</td><td>November 2021</td><td>Bristol, UK</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td></td><td>null</td><td></td><td></td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-7">Deep Sea Frequencies</a></td><td>Various colour &#x26; style variants of the label logo <em>Triskelagua</em>. </td><td>Music label logo</td><td>Since 2017</td><td>Bristol, UK</td><td><span data-option="q6SmeA27Fy3o">Photoshop, </span><span data-option="FRkdEdNAcdwN">Inkscape, </span><span data-option="ho1gctWVdhUC">Blender</span></td><td></td><td>null</td><td></td><td></td><td></td></tr><tr><td>Sanial</td><td><em><strong>Hexic Vert</strong></em>, a hexagonal font for an album cover</td><td>Font</td><td></td><td>Bristol, UK</td><td><span data-option="FRkdEdNAcdwN">Inkscape</span></td><td></td><td>null</td><td></td><td></td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-8">Deep Sea Frequencies</a></td><td>Album cover art — visual remix of original artwork by <em><strong>Kat Day Starlight Soul</strong></em>.</td><td>Album cover art</td><td></td><td></td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td></td><td>null</td><td></td><td></td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-9">Deep Sea Frequencies</a></td><td>PsyJelly 14 — Tea Tree, False Identity, Jaala</td><td>Event flyer</td><td></td><td>Brostol, UK</td><td><span data-option="FRkdEdNAcdwN">Inkscape, </span><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td></td><td>null</td><td></td><td></td><td></td></tr><tr><td>Phlowyd Design</td><td>Chipboard Black</td><td>Font</td><td></td><td></td><td></td><td></td><td>null</td><td></td><td></td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-10">Deep Sea Frequencies</a>, Anthropos Festival</td><td>UV-glow string art</td><td>String art (physical media)</td><td></td><td>Bristol, UK</td><td><span data-option="80U24F7meX6D">Hammer, </span><span data-option="qLVnFv0hJMWz">Drill, </span><span data-option="AyWsvqcnHZxO">Saw</span></td><td><span data-option="gOC9EBRrB85q">Wool, </span><span data-option="1Nk0WDIPvii4">Wood, </span><span data-option="uBLgbPrjem6v">Paint</span></td><td>null</td><td></td><td></td><td></td></tr><tr><td>Triplicity Festival, Anthropos Festival</td><td>Fire space</td><td>Space &#x26; décor creation</td><td></td><td></td><td><span data-option="qLVnFv0hJMWz">Drill, </span><span data-option="AyWsvqcnHZxO">Saw</span></td><td><span data-option="JS32Waoyo4mi">Fabric, </span><span data-option="JuNOv8QlgDfh">Dye, </span><span data-option="bOKyea6kCLLP">Wire, </span><span data-option="OQTtDxIKbbVO">Bamboo</span></td><td>null</td><td></td><td></td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-11">Deep Sea Frequencies</a></td><td></td><td>Event flyer</td><td></td><td></td><td></td><td></td><td>null</td><td></td><td></td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-12">Deep Sea Frequencies</a></td><td></td><td>Event flyer</td><td></td><td></td><td></td><td></td><td>null</td><td></td><td></td><td></td></tr></tbody></table>
+
+
+
+[^1]: previously _Psychedelic Jelly_
+
+[^2]: previously _Psychedelic Jelly_
+
+[^3]: previously _Psychedelic Jelly_
+
+[^4]: previously _Psychedelic Jelly_
+
+[^5]: previously _Psychedelic Jelly_
+
+[^6]: previously _Psychedelic Jelly_
+
+[^7]: previously _Psychedelic Jelly_
+
+[^8]: previously _Psychedelic Jelly_
+
+[^9]: previously _Psychedelic Jelly_
+
+[^10]: previously _Psychedelic Jelly_
+
+[^11]: previously _Psychedelic Jelly_
+
+[^12]: previously _Psychedelic Jelly_
