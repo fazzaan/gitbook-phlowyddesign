@@ -16,11 +16,15 @@ _Most projects include both digital banners for social media and websites, and f
 
 ## **PsyJelly 20th Edition event**
 
-asdf
+<div><figure><img src="../.gitbook/assets/PJ020 - PsyJelly 20th Edition facebook banner.jpg" alt="" width="563"><figcaption><p><em>Facebook event banner</em></p></figcaption></figure> <figure><img src="../.gitbook/assets/PJ020 - psyjelly 20th - Print flyer - RGB.jpg" alt="" width="563"><figcaption><p><em>A5 flyer for print</em></p></figcaption></figure></div>
+
+
 
 ***
 
 ## PsyJelly 19 — Live music with MantisMash & Pangani
+
+<figure><img src="../.gitbook/assets/PJ019 - Flyer print A5 with bleed but RGB-1.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -28,11 +32,15 @@ asdf
 
 ## PsyJelly 18 — Culprate, Shankara, Beatroots
 
+<figure><img src="../.gitbook/assets/PJ018 - Flyer A5 05-EDIT-7.jpg" alt=""><figcaption></figcaption></figure>
+
 
 
 ***
 
 ## Pitch Black Exodus tour and The MoonRakers
+
+<figure><img src="../.gitbook/assets/Pitch Black 2023 - facebook - right handed.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -40,11 +48,15 @@ asdf
 
 ## PsyJelly 17 — Live music (second edition) — Kaya Project, Nango Manchay
 
+<figure><img src="../.gitbook/assets/PJ017 - Jan 2023 - FB Event Banner.jpg" alt=""><figcaption></figcaption></figure>
+
 
 
 ***
 
 ## PsyJelly 16 — Halfred, Iacchus, Ekorce — 5th Birthday Bash
+
+<figure><img src="../.gitbook/assets/PJ016 - facebook banner event blender 02.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -52,11 +64,15 @@ asdf
 
 ## PsyJelly 15 — Globular & Geoglyph
 
+<figure><img src="../.gitbook/assets/PJ015 - 02 flyer event obverse A5 CMYK-2.jpg" alt=""><figcaption></figcaption></figure>
+
 
 
 ***
 
 ## PsyJelly 14 — Tea Tree, False Identity, Jaala
+
+<figure><img src="../.gitbook/assets/PJ014 - 01 A5 flyer front CMYK-4.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -64,11 +80,15 @@ asdf
 
 ## PsyJelly 13 — Double EP launch party
 
+<figure><img src="../.gitbook/assets/PJ013 - facebook banner PSD 08.jpg" alt=""><figcaption></figcaption></figure>
+
 
 
 ***
 
 ## PsyJelly 12 — Beltane & Danceculture Livestream
+
+<figure><img src="../.gitbook/assets/PJ012 - facebook banner 03 bluer.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -76,11 +96,15 @@ asdf
 
 ## PsyJelly 11 — Beatroots & Bayawaka
 
+<figure><img src="../.gitbook/assets/PJ011 - front and back.jpg" alt=""><figcaption></figcaption></figure>
+
 
 
 ***
 
 ## PsyJelly 9 and Mycelium Marshland 2
+
+<figure><img src="../.gitbook/assets/PJ007 - Flyer 02.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -88,11 +112,15 @@ asdf
 
 ## PsyJelly 8 and Animal Behaviour: Dub vs Psydub
 
+<figure><img src="../.gitbook/assets/PJ008 - Dub VS Psy poster - 06 farran-5.jpg" alt=""><figcaption></figcaption></figure>
+
 
 
 ***
 
 ## PsyJelly 7
+
+<figure><img src="../.gitbook/assets/PJ007 - Flyer 02.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -100,11 +128,15 @@ asdf
 
 ## PsyJelly 6
 
+<figure><img src="../.gitbook/assets/PJ006 - v25 navigation poster - updated contrast.jpg" alt=""><figcaption></figcaption></figure>
+
 
 
 ***
 
 ## PsyJelly 5
+
+<figure><img src="../.gitbook/assets/PJ005 - facebook post image 4.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -112,17 +144,23 @@ asdf
 
 ## PsyJelly 4
 
+<figure><img src="../.gitbook/assets/PJ004 - jellyfish poster landscape 03.jpg" alt=""><figcaption></figcaption></figure>
+
 
 
 ***
 
 ## PsyJelly 3
 
+<div><figure><img src="../.gitbook/assets/PJ003 - jellyfish poster facebook advert size.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/PJ003 - monochrome poster with metatron.jpg" alt=""><figcaption></figcaption></figure></div>
+
 
 
 ***
 
 ## PsyJelly 2
+
+<figure><img src="../.gitbook/assets/PJ002 - jellyfish yellow.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
