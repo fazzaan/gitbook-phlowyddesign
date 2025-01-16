@@ -4,9 +4,129 @@ icon: billboard
 
 # Event marketing
 
-flyers, banners, etc
+_Most recent project at the top._
 
-<table data-full-width="true"><thead><tr><th>Title</th><th>Client</th><th>Date</th><th data-type="files">Cover image</th><th>Location</th><th>Tools used<select multiple><option value="ho1gctWVdhUC" label="Blender" color="blue"></option><option value="FRkdEdNAcdwN" label="Inkscape" color="blue"></option><option value="9k3ASTGz3h5n" label="Figma" color="blue"></option><option value="5QckY43k6ESW" label="Mandelbulb" color="blue"></option><option value="q6SmeA27Fy3o" label="Photoshop" color="blue"></option><option value="SBHyQL5sP4xT" label="FontForge" color="blue"></option><option value="CBrJI6ihmrKY" label="Hand" color="blue"></option></select></th><th data-hidden>Item</th><th data-hidden data-type="content-ref">Link to portfolio section</th><th data-hidden data-type="number">Work hours</th><th data-hidden data-type="content-ref">Bēhance</th></tr></thead><tbody><tr><td><strong>PsyJelly 20th Edition event</strong></td><td><a data-footnote-ref href="#user-content-fn-1">Deep Sea Frequencies</a></td><td><em>September 2024</em></td><td><a href="../.gitbook/assets/PJ020 - PsyJelly 20th Edition facebook banner.jpg">PJ020 - PsyJelly 20th Edition facebook banner.jpg</a></td><td>Bristol, UK</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/208870751/Psychedelic-Jelly-20th-Edition-Globular-Quanta-more">https://www.behance.net/gallery/208870751/Psychedelic-Jelly-20th-Edition-Globular-Quanta-more</a></td></tr><tr><td><strong>PsyJelly 19 — Live music with MantisMash &#x26; Pangani</strong></td><td><a data-footnote-ref href="#user-content-fn-2">Deep Sea Frequencies</a></td><td>December <em>2023</em></td><td><a href="../.gitbook/assets/PJ019 - Flyer print A5 with bleed but RGB-1.jpg">PJ019 - Flyer print A5 with bleed but RGB-1.jpg</a></td><td>Bristol, UK</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/184796767/Psychedelic-Jelly-19-MantisMash-Pangani-Encounters">https://www.behance.net/gallery/184796767/Psychedelic-Jelly-19-MantisMash-Pangani-Encounters</a></td></tr><tr><td><strong>PsyJelly 18 — Culprate, Shankara, Beatroots</strong></td><td><a data-footnote-ref href="#user-content-fn-3">Deep Sea Frequencies</a></td><td><em>September 2023</em></td><td><a href="../.gitbook/assets/PJ018 - Flyer A5 05-EDIT-7.jpg">PJ018 - Flyer A5 05-EDIT-7.jpg</a></td><td>Bristol, UK</td><td><span data-option="ho1gctWVdhUC">Blender, </span><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/176359653/Psychedelic-Jelly-18-Culprate-Shankara-Beatroots">https://www.behance.net/gallery/176359653/Psychedelic-Jelly-18-Culprate-Shankara-Beatroots</a></td></tr><tr><td>Pitch Black Exodus tour and The MoonRakers</td><td>Pitch Black</td><td><em>April 2023</em></td><td><a href="../.gitbook/assets/Pitch Black 2023 - facebook - right handed.jpg">Pitch Black 2023 - facebook - right handed.jpg</a></td><td>Bristol, UK</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/164915925/Event-banner-Pitch-Black-The-MoonRakers">https://www.behance.net/gallery/164915925/Event-banner-Pitch-Black-The-MoonRakers</a></td></tr><tr><td>Logo for circus collective organisation</td><td>La Llamada</td><td><em>February 2023</em></td><td><a href="../.gitbook/assets/vector layout - sixth version - light 5 - for most social media sites.jpg">vector layout - sixth version - light 5 - for most social media sites.jpg</a></td><td>Leipzig, Germany</td><td><span data-option="CBrJI6ihmrKY">Hand, </span><span data-option="FRkdEdNAcdwN">Inkscape</span></td><td></td><td></td><td>null</td><td></td></tr><tr><td>PsyJelly 17 — Live music (second edition) — Kaya Project, Nango Manchay</td><td><a data-footnote-ref href="#user-content-fn-4">Deep Sea Frequencies</a></td><td><em>December 2022</em></td><td><a href="../.gitbook/assets/PJ017 - Jan 2023 - FB Event Banner.jpg">PJ017 - Jan 2023 - FB Event Banner.jpg</a></td><td>Bristol, UK</td><td><span data-option="5QckY43k6ESW">Mandelbulb, </span><span data-option="ho1gctWVdhUC">Blender, </span><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/164827263/Psychedelic-Jelly-17-live-music-event-flyer">https://www.behance.net/gallery/164827263/Psychedelic-Jelly-17-live-music-event-flyer</a></td></tr><tr><td>PsyJelly 16 — Halfred, Iacchus, Ekorce — 5th Birthday Bash</td><td><a data-footnote-ref href="#user-content-fn-5">Deep Sea Frequencies</a></td><td><em>February 2022</em></td><td><a href="../.gitbook/assets/PJ016 - facebook banner event blender 02.jpg">PJ016 - facebook banner event blender 02.jpg</a></td><td>Bristol, UK</td><td><span data-option="ho1gctWVdhUC">Blender, </span><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/164741815/Psychedelic-Jelly-16-2-rooms-flyer-FB">https://www.behance.net/gallery/164741815/Psychedelic-Jelly-16-2-rooms-flyer-FB</a></td></tr><tr><td>PsyJelly 15 — Globular &#x26; Geoglyph</td><td><a data-footnote-ref href="#user-content-fn-6">Deep Sea Frequencies</a></td><td><em>November 2021</em></td><td><a href="../.gitbook/assets/PJ015 - 02 flyer event obverse A5 CMYK-2.jpg">PJ015 - 02 flyer event obverse A5 CMYK-2.jpg</a></td><td>Bristol, UK</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/164738517/Psychedelic-Jelly-15-Globular-and-Geoglyph-flyer-FB">https://www.behance.net/gallery/164738517/Psychedelic-Jelly-15-Globular-and-Geoglyph-flyer-FB</a></td></tr><tr><td>Various colour &#x26; style variants of the label logo <em>Triskelagua</em>.</td><td><a data-footnote-ref href="#user-content-fn-7">Deep Sea Frequencies</a></td><td><em>Since 2017</em></td><td></td><td>Bristol, UK</td><td><span data-option="q6SmeA27Fy3o">Photoshop, </span><span data-option="FRkdEdNAcdwN">Inkscape, </span><span data-option="ho1gctWVdhUC">Blender</span></td><td>Music label logo</td><td></td><td>null</td><td></td></tr><tr><td>Album cover art — visual remix of original artwork by <em><strong>Kat Day Starlight Soul</strong></em>.</td><td><a data-footnote-ref href="#user-content-fn-8">Deep Sea Frequencies</a></td><td><em>February 2021</em></td><td><a href="../.gitbook/assets/geolinguistic remix - gitbook portfolio cover.jpg">geolinguistic remix - gitbook portfolio cover.jpg</a></td><td>United Kingdom</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Album cover art</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/126973771/Geolinguistic-Remix-album-artwork-by-Kat-Day">https://www.behance.net/gallery/126973771/Geolinguistic-Remix-album-artwork-by-Kat-Day</a></td></tr><tr><td>PsyJelly 14 — Tea Tree, False Identity, Jaala</td><td><a data-footnote-ref href="#user-content-fn-9">Deep Sea Frequencies</a></td><td></td><td><a href="../.gitbook/assets/PJ014 - 01 A5 flyer front CMYK-4.jpg">PJ014 - 01 A5 flyer front CMYK-4.jpg</a></td><td>Bristol, UK</td><td><span data-option="FRkdEdNAcdwN">Inkscape, </span><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/126215901/Psychedelic-Jelly-14-facebook-event-banner-image">https://www.behance.net/gallery/126215901/Psychedelic-Jelly-14-facebook-event-banner-image</a></td></tr><tr><td>Logo for handmade jewellery company</td><td>Macraveda</td><td><em>April 2020</em></td><td><a href="../.gitbook/assets/Macraveda 2020 - render 2.png">Macraveda 2020 - render 2.png</a></td><td>United Kingdom</td><td><span data-option="FRkdEdNAcdwN">Inkscape</span></td><td></td><td></td><td>null</td><td></td></tr><tr><td>PsyJelly 13 — Double EP launch party</td><td><a data-footnote-ref href="#user-content-fn-10">Deep Sea Frequencies</a></td><td></td><td><a href="../.gitbook/assets/PJ013 - facebook banner PSD 08.jpg">PJ013 - facebook banner PSD 08.jpg</a></td><td>Bristol, UK</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/125087323/Psychedelic-Jelly-13-Double-EP-launch-party">https://www.behance.net/gallery/125087323/Psychedelic-Jelly-13-Double-EP-launch-party</a></td></tr><tr><td>PsyJelly 12 — Beltane &#x26; Danceculture Livestream</td><td><a data-footnote-ref href="#user-content-fn-11">Deep Sea Frequencies</a></td><td></td><td><a href="../.gitbook/assets/PJ012 - facebook banner 03 bluer.jpg">PJ012 - facebook banner 03 bluer.jpg</a></td><td>Online, UK</td><td><span data-option="CBrJI6ihmrKY">Hand, </span><span data-option="FRkdEdNAcdwN">Inkscape</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/125086295/Psychedelic-Jelly-12-Beltane-Danceculture-livestream">https://www.behance.net/gallery/125086295/Psychedelic-Jelly-12-Beltane-Danceculture-livestream</a></td></tr><tr><td>PsyJelly 11 — Beatroots &#x26; Bayawaka</td><td><a data-footnote-ref href="#user-content-fn-12">Deep Sea Frequencies</a></td><td></td><td><a href="../.gitbook/assets/PJ011 - front and back.jpg">PJ011 - front and back.jpg</a></td><td>Bristol, UK</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/125057301/Psychedelic-Jelly-11-Beatroots-Bayawaka">https://www.behance.net/gallery/125057301/Psychedelic-Jelly-11-Beatroots-Bayawaka</a></td></tr><tr><td>PsyJelly 9 and Mycelium Marshland 2</td><td><a data-footnote-ref href="#user-content-fn-13">Deep Sea Frequencies</a></td><td></td><td><a href="../.gitbook/assets/PJ009 - Poster 02 - Mycelium Marshland-3.jpg">PJ009 - Poster 02 - Mycelium Marshland-3.jpg</a></td><td>Bristol, UK</td><td><span data-option="CBrJI6ihmrKY">Hand, </span><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/124721351/Psychedelic-Jelly-9-Mycelium-Marshland-2">https://www.behance.net/gallery/124721351/Psychedelic-Jelly-9-Mycelium-Marshland-2</a></td></tr><tr><td>PsyJelly 8 and Animal Behaviour: Dub vs Psydub</td><td><a data-footnote-ref href="#user-content-fn-14">Deep Sea Frequencies</a></td><td></td><td><a href="../.gitbook/assets/PJ008 - Dub VS Psy poster - 06 farran-5.jpg">PJ008 - Dub VS Psy poster - 06 farran-5.jpg</a></td><td>Bristol, UK</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/124252705/Psychedelic-Jelly-8-Animal-Behaviour-Dub-vs-Psydub">https://www.behance.net/gallery/124252705/Psychedelic-Jelly-8-Animal-Behaviour-Dub-vs-Psydub</a></td></tr><tr><td>PsyJelly 7</td><td><a data-footnote-ref href="#user-content-fn-15">Deep Sea Frequencies</a></td><td></td><td><a href="../.gitbook/assets/PJ007 - Flyer 02.jpg">PJ007 - Flyer 02.jpg</a></td><td>Bristol, UK</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/70299131/Psychedelic-Jelly-7">https://www.behance.net/gallery/70299131/Psychedelic-Jelly-7</a></td></tr><tr><td>PsyJelly 6: Navigate launch party with Wolf Tech</td><td><a data-footnote-ref href="#user-content-fn-16">Deep Sea Frequencies</a></td><td></td><td><a href="../.gitbook/assets/PJ006 - v25 navigation poster - updated contrast.jpg">PJ006 - v25 navigation poster - updated contrast.jpg</a></td><td>Bristol, UK</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/65489261/Psychedelic-Jelly-6-Navigate">https://www.behance.net/gallery/65489261/Psychedelic-Jelly-6-Navigate</a></td></tr><tr><td>PsyJelly 5</td><td><a data-footnote-ref href="#user-content-fn-17">Deep Sea Frequencies</a></td><td></td><td><a href="../.gitbook/assets/PJ005 - facebook post image 4.jpg">PJ005 - facebook post image 4.jpg</a></td><td>Bristol, UK</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/65488801/Psychedelic-Jelly-5">https://www.behance.net/gallery/65488801/Psychedelic-Jelly-5</a></td></tr><tr><td>PsyJelly 4</td><td><a data-footnote-ref href="#user-content-fn-18">Deep Sea Frequencies</a></td><td></td><td><a href="../.gitbook/assets/PJ004 - jellyfish poster landscape 03.jpg">PJ004 - jellyfish poster landscape 03.jpg</a></td><td>Bristol, UK</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/65488623/Psychedelic-Jelly-4">https://www.behance.net/gallery/65488623/Psychedelic-Jelly-4</a></td></tr><tr><td>PsyJelly 3</td><td><a data-footnote-ref href="#user-content-fn-19">Deep Sea Frequencies</a></td><td></td><td><a href="../.gitbook/assets/PJ003 - jellyfish poster facebook advert size.jpg">PJ003 - jellyfish poster facebook advert size.jpg</a></td><td>Bristol, UK</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/65485995/Psychedelic-Jelly-3">https://www.behance.net/gallery/65485995/Psychedelic-Jelly-3</a></td></tr><tr><td>PsyJelly 2</td><td><a data-footnote-ref href="#user-content-fn-20">Deep Sea Frequencies</a></td><td></td><td><a href="../.gitbook/assets/PJ002 - jellyfish yellow.jpg">PJ002 - jellyfish yellow.jpg</a></td><td>Bristol, UK</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>null</td><td><a href="https://www.behance.net/gallery/65418667/Psychedelic-Jelly-2">https://www.behance.net/gallery/65418667/Psychedelic-Jelly-2</a></td></tr></tbody></table>
+_Click on the project card to scroll to it on this page._
+
+_Most projects include both digital banners for social media and websites, and flyers rendered for print._
+
+<table data-view="cards" data-full-width="true"><thead><tr><th>Title</th><th>Client</th><th>Date</th><th>Tools used<select multiple><option value="ho1gctWVdhUC" label="Blender" color="blue"></option><option value="FRkdEdNAcdwN" label="Inkscape" color="blue"></option><option value="9k3ASTGz3h5n" label="Figma" color="blue"></option><option value="5QckY43k6ESW" label="Mandelbulb" color="blue"></option><option value="q6SmeA27Fy3o" label="Photoshop" color="blue"></option><option value="SBHyQL5sP4xT" label="FontForge" color="blue"></option><option value="CBrJI6ihmrKY" label="Hand" color="blue"></option></select></th><th data-hidden>Item</th><th data-hidden data-type="content-ref">Link to portfolio section</th><th data-hidden>Location</th><th data-hidden data-type="number">Work hours</th><th data-hidden data-type="content-ref">Bēhance</th><th data-hidden data-card-cover data-type="files">Cover image</th></tr></thead><tbody><tr><td><strong>PsyJelly 20th Edition event</strong></td><td><a data-footnote-ref href="#user-content-fn-1">Deep Sea Frequencies</a></td><td><em>September 2024</em></td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/208870751/Psychedelic-Jelly-20th-Edition-Globular-Quanta-more">https://www.behance.net/gallery/208870751/Psychedelic-Jelly-20th-Edition-Globular-Quanta-more</a></td><td><a href="../.gitbook/assets/PJ020 - PsyJelly 20th Edition facebook banner.jpg">PJ020 - PsyJelly 20th Edition facebook banner.jpg</a></td></tr><tr><td><strong>PsyJelly 19 — Live music with MantisMash &#x26; Pangani</strong></td><td><a data-footnote-ref href="#user-content-fn-2">Deep Sea Frequencies</a></td><td>December <em>2023</em></td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/184796767/Psychedelic-Jelly-19-MantisMash-Pangani-Encounters">https://www.behance.net/gallery/184796767/Psychedelic-Jelly-19-MantisMash-Pangani-Encounters</a></td><td><a href="../.gitbook/assets/PJ019 - Flyer print A5 with bleed but RGB-1.jpg">PJ019 - Flyer print A5 with bleed but RGB-1.jpg</a></td></tr><tr><td><strong>PsyJelly 18 — Culprate, Shankara, Beatroots</strong></td><td><a data-footnote-ref href="#user-content-fn-3">Deep Sea Frequencies</a></td><td><em>September 2023</em></td><td><span data-option="ho1gctWVdhUC">Blender, </span><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/176359653/Psychedelic-Jelly-18-Culprate-Shankara-Beatroots">https://www.behance.net/gallery/176359653/Psychedelic-Jelly-18-Culprate-Shankara-Beatroots</a></td><td><a href="../.gitbook/assets/PJ018 - Flyer A5 05-EDIT-7.jpg">PJ018 - Flyer A5 05-EDIT-7.jpg</a></td></tr><tr><td>Pitch Black Exodus tour and The MoonRakers</td><td>Pitch Black</td><td><em>April 2023</em></td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/164915925/Event-banner-Pitch-Black-The-MoonRakers">https://www.behance.net/gallery/164915925/Event-banner-Pitch-Black-The-MoonRakers</a></td><td><a href="../.gitbook/assets/Pitch Black 2023 - facebook - right handed.jpg">Pitch Black 2023 - facebook - right handed.jpg</a></td></tr><tr><td><strong>PsyJelly 17 — Live music (second edition) — Kaya Project, Nango Manchay</strong></td><td><a data-footnote-ref href="#user-content-fn-4">Deep Sea Frequencies</a></td><td><em>December 2022</em></td><td><span data-option="5QckY43k6ESW">Mandelbulb, </span><span data-option="ho1gctWVdhUC">Blender, </span><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/164827263/Psychedelic-Jelly-17-live-music-event-flyer">https://www.behance.net/gallery/164827263/Psychedelic-Jelly-17-live-music-event-flyer</a></td><td><a href="../.gitbook/assets/PJ017 - Jan 2023 - FB Event Banner.jpg">PJ017 - Jan 2023 - FB Event Banner.jpg</a></td></tr><tr><td><strong>PsyJelly 16 — Halfred, Iacchus, Ekorce — 5th Birthday Bash</strong></td><td><a data-footnote-ref href="#user-content-fn-5">Deep Sea Frequencies</a></td><td><em>February 2022</em></td><td><span data-option="ho1gctWVdhUC">Blender, </span><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/164741815/Psychedelic-Jelly-16-2-rooms-flyer-FB">https://www.behance.net/gallery/164741815/Psychedelic-Jelly-16-2-rooms-flyer-FB</a></td><td><a href="../.gitbook/assets/PJ016 - facebook banner event blender 02.jpg">PJ016 - facebook banner event blender 02.jpg</a></td></tr><tr><td><strong>PsyJelly 15 — Globular &#x26; Geoglyph</strong></td><td><a data-footnote-ref href="#user-content-fn-6">Deep Sea Frequencies</a></td><td><em>November 2021</em></td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/164738517/Psychedelic-Jelly-15-Globular-and-Geoglyph-flyer-FB">https://www.behance.net/gallery/164738517/Psychedelic-Jelly-15-Globular-and-Geoglyph-flyer-FB</a></td><td><a href="../.gitbook/assets/PJ015 - 02 flyer event obverse A5 CMYK-2.jpg">PJ015 - 02 flyer event obverse A5 CMYK-2.jpg</a></td></tr><tr><td><strong>PsyJelly 14 — Tea Tree, False Identity, Jaala</strong></td><td><a data-footnote-ref href="#user-content-fn-7">Deep Sea Frequencies</a></td><td></td><td><span data-option="FRkdEdNAcdwN">Inkscape, </span><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/126215901/Psychedelic-Jelly-14-facebook-event-banner-image">https://www.behance.net/gallery/126215901/Psychedelic-Jelly-14-facebook-event-banner-image</a></td><td><a href="../.gitbook/assets/PJ014 - 01 A5 flyer front CMYK-4.jpg">PJ014 - 01 A5 flyer front CMYK-4.jpg</a></td></tr><tr><td><strong>PsyJelly 13 — Double EP launch party</strong></td><td><a data-footnote-ref href="#user-content-fn-8">Deep Sea Frequencies</a></td><td></td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/125087323/Psychedelic-Jelly-13-Double-EP-launch-party">https://www.behance.net/gallery/125087323/Psychedelic-Jelly-13-Double-EP-launch-party</a></td><td><a href="../.gitbook/assets/PJ013 - facebook banner PSD 08.jpg">PJ013 - facebook banner PSD 08.jpg</a></td></tr><tr><td><strong>PsyJelly 12 — Beltane &#x26; Danceculture Livestream</strong></td><td><a data-footnote-ref href="#user-content-fn-9">Deep Sea Frequencies</a></td><td></td><td><span data-option="CBrJI6ihmrKY">Hand, </span><span data-option="FRkdEdNAcdwN">Inkscape</span></td><td>Event flyer</td><td></td><td>Online, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/125086295/Psychedelic-Jelly-12-Beltane-Danceculture-livestream">https://www.behance.net/gallery/125086295/Psychedelic-Jelly-12-Beltane-Danceculture-livestream</a></td><td><a href="../.gitbook/assets/PJ012 - facebook banner 03 bluer.jpg">PJ012 - facebook banner 03 bluer.jpg</a></td></tr><tr><td><strong>PsyJelly 11 — Beatroots &#x26; Bayawaka</strong></td><td><a data-footnote-ref href="#user-content-fn-10">Deep Sea Frequencies</a></td><td></td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/125057301/Psychedelic-Jelly-11-Beatroots-Bayawaka">https://www.behance.net/gallery/125057301/Psychedelic-Jelly-11-Beatroots-Bayawaka</a></td><td><a href="../.gitbook/assets/PJ011 - front and back.jpg">PJ011 - front and back.jpg</a></td></tr><tr><td><strong>PsyJelly 9 and Mycelium Marshland 2</strong></td><td><a data-footnote-ref href="#user-content-fn-11">Deep Sea Frequencies</a></td><td></td><td><span data-option="CBrJI6ihmrKY">Hand, </span><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/124721351/Psychedelic-Jelly-9-Mycelium-Marshland-2">https://www.behance.net/gallery/124721351/Psychedelic-Jelly-9-Mycelium-Marshland-2</a></td><td><a href="../.gitbook/assets/PJ009 - Poster 02 - Mycelium Marshland-3.jpg">PJ009 - Poster 02 - Mycelium Marshland-3.jpg</a></td></tr><tr><td><strong>PsyJelly 8 and Animal Behaviour: Dub vs Psydub</strong></td><td><a data-footnote-ref href="#user-content-fn-12">Deep Sea Frequencies</a></td><td></td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/124252705/Psychedelic-Jelly-8-Animal-Behaviour-Dub-vs-Psydub">https://www.behance.net/gallery/124252705/Psychedelic-Jelly-8-Animal-Behaviour-Dub-vs-Psydub</a></td><td><a href="../.gitbook/assets/PJ008 - Dub VS Psy poster - 06 farran-5.jpg">PJ008 - Dub VS Psy poster - 06 farran-5.jpg</a></td></tr><tr><td>PsyJelly 7</td><td><a data-footnote-ref href="#user-content-fn-13">Deep Sea Frequencies</a></td><td></td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/70299131/Psychedelic-Jelly-7">https://www.behance.net/gallery/70299131/Psychedelic-Jelly-7</a></td><td><a href="../.gitbook/assets/PJ007 - Flyer 02.jpg">PJ007 - Flyer 02.jpg</a></td></tr><tr><td>PsyJelly 6: Navigate launch party with Wolf Tech</td><td><a data-footnote-ref href="#user-content-fn-14">Deep Sea Frequencies</a></td><td></td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/65489261/Psychedelic-Jelly-6-Navigate">https://www.behance.net/gallery/65489261/Psychedelic-Jelly-6-Navigate</a></td><td><a href="../.gitbook/assets/PJ006 - v25 navigation poster - updated contrast.jpg">PJ006 - v25 navigation poster - updated contrast.jpg</a></td></tr><tr><td>PsyJelly 5</td><td><a data-footnote-ref href="#user-content-fn-15">Deep Sea Frequencies</a></td><td></td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/65488801/Psychedelic-Jelly-5">https://www.behance.net/gallery/65488801/Psychedelic-Jelly-5</a></td><td><a href="../.gitbook/assets/PJ005 - facebook post image 4.jpg">PJ005 - facebook post image 4.jpg</a></td></tr><tr><td>PsyJelly 4</td><td><a data-footnote-ref href="#user-content-fn-16">Deep Sea Frequencies</a></td><td></td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/65488623/Psychedelic-Jelly-4">https://www.behance.net/gallery/65488623/Psychedelic-Jelly-4</a></td><td><a href="../.gitbook/assets/PJ004 - jellyfish poster landscape 03.jpg">PJ004 - jellyfish poster landscape 03.jpg</a></td></tr><tr><td>PsyJelly 3</td><td><a data-footnote-ref href="#user-content-fn-17">Deep Sea Frequencies</a></td><td></td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/65485995/Psychedelic-Jelly-3">https://www.behance.net/gallery/65485995/Psychedelic-Jelly-3</a></td><td><a href="../.gitbook/assets/PJ003 - jellyfish poster facebook advert size.jpg">PJ003 - jellyfish poster facebook advert size.jpg</a></td></tr><tr><td>PsyJelly 2</td><td><a data-footnote-ref href="#user-content-fn-18">Deep Sea Frequencies</a></td><td></td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td>Event flyer</td><td></td><td>Bristol, UK</td><td>null</td><td><a href="https://www.behance.net/gallery/65418667/Psychedelic-Jelly-2">https://www.behance.net/gallery/65418667/Psychedelic-Jelly-2</a></td><td><a href="../.gitbook/assets/PJ002 - jellyfish yellow.jpg">PJ002 - jellyfish yellow.jpg</a></td></tr></tbody></table>
+
+***
+
+## **PsyJelly 20th Edition event**
+
+asdf
+
+***
+
+## PsyJelly 19 — Live music with MantisMash & Pangani
+
+
+
+***
+
+## PsyJelly 18 — Culprate, Shankara, Beatroots
+
+
+
+***
+
+## Pitch Black Exodus tour and The MoonRakers
+
+
+
+***
+
+## PsyJelly 17 — Live music (second edition) — Kaya Project, Nango Manchay
+
+
+
+***
+
+## PsyJelly 16 — Halfred, Iacchus, Ekorce — 5th Birthday Bash
+
+
+
+***
+
+## PsyJelly 15 — Globular & Geoglyph
+
+
+
+***
+
+## PsyJelly 14 — Tea Tree, False Identity, Jaala
+
+
+
+***
+
+## PsyJelly 13 — Double EP launch party
+
+
+
+***
+
+## PsyJelly 12 — Beltane & Danceculture Livestream
+
+
+
+***
+
+## PsyJelly 11 — Beatroots & Bayawaka
+
+
+
+***
+
+## PsyJelly 9 and Mycelium Marshland 2
+
+
+
+***
+
+## PsyJelly 8 and Animal Behaviour: Dub vs Psydub
+
+
+
+***
+
+## PsyJelly 7
+
+
+
+***
+
+## PsyJelly 6
+
+
+
+***
+
+## PsyJelly 5
+
+
+
+***
+
+## PsyJelly 4
+
+
+
+***
+
+## PsyJelly 3
+
+
+
+***
+
+## PsyJelly 2
+
+
+
+***
 
 [^1]: previously _Psychedelic Jelly_
 
@@ -43,7 +163,3 @@ flyers, banners, etc
 [^17]: previously _Psychedelic Jelly_
 
 [^18]: previously _Psychedelic Jelly_
-
-[^19]: previously _Psychedelic Jelly_
-
-[^20]: previously _Psychedelic Jelly_
