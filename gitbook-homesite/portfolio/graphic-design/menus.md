@@ -16,11 +16,15 @@ _Click on the project card to scroll to it on this page._
 
 _November 2024_
 
-### Final design
+_Location_
+
+_Behance URL_
 
 A Greek-style restaurant in Da Nang, owned and run by local Vietnamese friends of mine, decided to expand their business into cooking pizzas. One year prior, [📄I had updated their previous menu](menus.md#greek-food-menu-bobo-food) and then rebuilt the whole thing from scratch because they didn't have access to the original menu PSDs.&#x20;
 
 At the end of 2024 they returned to ask me to produce the menu for their new pizza restaurant.
+
+### Final design
 
 <div><figure><img src="../../.gitbook/assets/BoBo menu 2024 - 00 - Front page - 4th design.jpg" alt=""><figcaption><p><em>Front cover</em></p></figcaption></figure> <figure><img src="../../.gitbook/assets/BoBo 2024 - 07 - Back page - 4th design - small.jpg" alt=""><figcaption><p><em>Back cover</em></p></figcaption></figure></div>
 
