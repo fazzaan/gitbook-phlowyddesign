@@ -130,7 +130,7 @@ _Most projects include both digital banners for social media and websites, and f
 
 ***
 
-## PsyJelly 6
+## PsyJelly 6 — Navigate launch party _with_ Wolf Tech
 
 <figure><img src="../.gitbook/assets/PJ006 - v25 navigation poster - updated contrast.jpg" alt=""><figcaption></figcaption></figure>
 

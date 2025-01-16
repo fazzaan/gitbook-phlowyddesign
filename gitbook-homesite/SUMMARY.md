@@ -7,7 +7,7 @@
 * [Graphic design work](portfolio/graphic-design.md)
   * [Event marketing](portfolio/event-marketing.md)
   * [Menus](portfolio/graphic-design/menus.md)
-  * [Text & Logo edits](portfolio/graphic-design/text-and-logo-edits.md)
+  * [Text, Logo, Imagery](portfolio/graphic-design/text-and-logo-edits.md)
 * [🅰️ Font Design](portfolio/font-design/README.md)
   * [TallThin](portfolio/font-design/tallthin.md)
   * [Runic](portfolio/font-design/runic.md)
