@@ -16,7 +16,11 @@ _Click on the project card to scroll to it on this page._
 
 _November 2024_
 
-#### Final design
+### Final design
+
+A Greek-style restaurant in Da Nang, owned and run by local Vietnamese friends of mine, decided to expand their business into cooking pizzas. One year prior, [📄I had updated their previous menu](menus.md#greek-food-menu-bobo-food) and then rebuilt the whole thing from scratch because they didn't have access to the original menu PSDs.&#x20;
+
+At the end of 2024 they returned to ask me to produce the menu for their new pizza restaurant.
 
 <div><figure><img src="../../.gitbook/assets/BoBo menu 2024 - 00 - Front page - 4th design.jpg" alt=""><figcaption><p><em>Front cover</em></p></figcaption></figure> <figure><img src="../../.gitbook/assets/BoBo 2024 - 07 - Back page - 4th design - small.jpg" alt=""><figcaption><p><em>Back cover</em></p></figcaption></figure></div>
 
@@ -26,9 +30,23 @@ _November 2024_
 
 <div data-full-width="false"><figure><img src="../../.gitbook/assets/BoBo 2024 - 05 - Salads and Extras - 4th design - small.jpg" alt=""><figcaption><p><em>Salads &#x26; Potatoes</em></p></figcaption></figure> <figure><img src="../../.gitbook/assets/BoBo 2024 - 06 - Drinks - 4th design - small.jpg" alt=""><figcaption><p>Drinks</p></figcaption></figure></div>
 
+### 3rd design
 
+The third design was printed for use in the restaurant, but after one week, the restaurant owner had developed several more pizza recipes to add to his menu, so after this I rebuilt the whole menu again.
 
+<div><figure><img src="../../.gitbook/assets/BoBo 2024 - v3 - 01 - Vegetarian pizzas - 3rd design (Large).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/BoBo 2024 - v3 - 02 - Meat pizzas - 3rd design (Large).jpg" alt=""><figcaption></figcaption></figure></div>
 
+### 2nd design ideas
+
+We generated some ideas for the real menu, but scrapped them all in the end, in favour of text lists.
+
+<div><figure><img src="../../.gitbook/assets/BoBo 2024 - v2 - 01 - Sample page - black (Large).jpg" alt=""><figcaption><p><em>Feature 2 dishes</em></p></figcaption></figure> <figure><img src="../../.gitbook/assets/BoBo 2024 - v2 - 01 - Sample page - white (Large).jpg" alt=""><figcaption><p><em>White theme</em></p></figcaption></figure> <figure><img src="../../.gitbook/assets/BoBo 2024 - v2 - 01 - Vegetarian pizzas - 9-up (Large).jpg" alt=""><figcaption><p>Display 9 pizza images</p></figcaption></figure> <figure><img src="../../.gitbook/assets/BoBo 2024 - v2 - 03 - Meat pizzas B and Salads - 9-up (Large).jpg" alt=""><figcaption><p><em>Display 2 categories</em></p></figcaption></figure></div>
+
+### 1st design — urgent design
+
+I produced this one quickly so that the restaurant could launch their new pizza branch immediately.
+
+<div><figure><img src="../../.gitbook/assets/BoBo 2024 v1 - 01 - Vegetable Pizzas page 1 (Large).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/BoBo 2024 v1 - 02a - Meat Pizzas page 2 (Large).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/BoBo 2024 v1 - 03a - Drinks and Salads page 3 (Large).jpg" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
