@@ -24,7 +24,11 @@ _Most projects include both digital banners for social media and websites, and f
 
 ## PsyJelly 19 — Live music with MantisMash & Pangani
 
-<figure><img src="../.gitbook/assets/PJ019 - Flyer print A5 with bleed but RGB-1.jpg" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/PJ019 - Facebook Event banner with crops.jpg" alt=""><figcaption><p><em>Facebook banner with text fitted inside safe borders</em></p></figcaption></figure> <figure><img src="../.gitbook/assets/PJ019 - Flyer print A5 with bleed but RGB-1.jpg" alt=""><figcaption><p><em>A5 flyer for print</em></p></figcaption></figure></div>
+
+<div><figure><img src="../.gitbook/assets/PJ019 - 01 - rings ripples style settings.png" alt=""><figcaption><p><em>Photoshop layer blend effects for creating the ripples</em></p></figcaption></figure> <figure><img src="../.gitbook/assets/PJ019 - 02 - rings ripples nested.png" alt=""><figcaption><p><em>Demonstrating the nested layers to produce this effect</em></p></figcaption></figure></div>
+
+<div><figure><img src="../.gitbook/assets/PJ019 - 03 - rings ripples green mess.png" alt=""><figcaption><p><em>One of the less-orderly galaxies</em></p></figcaption></figure> <figure><img src="../.gitbook/assets/PJ019 - 04-rings-ripples-flower-of-life-ANIM.gif" alt=""><figcaption><p><em>Showing how the layers interact in a high-order galaxy</em></p></figcaption></figure></div>
 
 
 
