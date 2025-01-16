@@ -7,3 +7,6 @@ icon: square-list
 BoBo restaurant menus
 
 and others
+
+new page
+
