@@ -20,21 +20,33 @@ _Most projects include both digital banners for social media & websites, and fly
 
 ## **PsyJelly rebrand to&#x20;**_**Deep Sea Frequencies**_&#x20;
 
-<figure><img src="../.gitbook/assets/Soundcloud header - REBRAND BANNER.png" alt=""><figcaption></figcaption></figure>
+_Date_
 
-<figure><img src="../.gitbook/assets/v3 bandcamp banner - blue purple gold (previously psyjelly) 2.png" alt=""><figcaption></figcaption></figure>
+Tools
 
-<div data-full-width="false"><figure><img src="../.gitbook/assets/Soundcloud display picture - REBRAND IMAGE.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/SQUARE festival post 2000x2000.jpg" alt=""><figcaption></figcaption></figure></div>
+🌐�&#xDD17;_&#x42;̄ehance link_&#x20;
 
-<figure><img src="../.gitbook/assets/Facebook Post Image - REBRAND NOTIFICATION.jpg" alt=""><figcaption></figcaption></figure>
+Header banners for SoundCloud and Bandcamp.
 
+<figure><img src="../.gitbook/assets/Soundcloud header - REBRAND BANNER.png" alt=""><figcaption><p>Soundcloud profile page header image</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/v3 bandcamp banner - blue purple gold (previously psyjelly) 2.png" alt=""><figcaption><p>Bandcamp profile page header image</p></figcaption></figure>
+
+<div data-full-width="false"><figure><img src="../.gitbook/assets/Soundcloud display picture - REBRAND IMAGE.png" alt=""><figcaption><p>Updated logo style</p></figcaption></figure> <figure><img src="../.gitbook/assets/SQUARE festival post 2000x2000.jpg" alt=""><figcaption><p>Imagery for upcoming festival</p></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/Facebook Post Image - REBRAND NOTIFICATION.jpg" alt=""><figcaption><p>Image for notification post on Facebook</p></figcaption></figure>
 
 
 
 ***
 
 ## **PsyJelly 20th Edition event**
+
+_Date_
+
+Tools
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/208870751/Psychedelic-Jelly-20th-Edition-Globular-Quanta-more)&#x20;
 
 <div><figure><img src="../.gitbook/assets/PJ020 - PsyJelly 20th Edition facebook banner.jpg" alt="" width="563"><figcaption><p><em>Facebook event banner</em></p></figcaption></figure> <figure><img src="../.gitbook/assets/PJ020 - psyjelly 20th - Print flyer - RGB.jpg" alt="" width="563"><figcaption><p><em>A5 flyer for print</em></p></figcaption></figure></div>
 
@@ -43,6 +55,12 @@ _Most projects include both digital banners for social media & websites, and fly
 ***
 
 ## PsyJelly 19 — Live music with MantisMash & Pangani
+
+_Date_
+
+Tools
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/184796767/Psychedelic-Jelly-19-MantisMash-Pangani-Encounters)&#x20;
 
 <div><figure><img src="../.gitbook/assets/PJ019 - Facebook Event banner with crops.jpg" alt=""><figcaption><p><em>Facebook banner with text fitted inside safe borders</em></p></figcaption></figure> <figure><img src="../.gitbook/assets/PJ019 - Flyer print A5 with bleed but RGB-1.jpg" alt=""><figcaption><p><em>A5 flyer for print</em></p></figcaption></figure></div>
 
@@ -56,6 +74,12 @@ _Most projects include both digital banners for social media & websites, and fly
 
 ## PsyJelly 18 — Culprate, Shankara, Beatroots
 
+_Date_
+
+Tools
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/176359653/Psychedelic-Jelly-18-Culprate-Shankara-Beatroots)&#x20;
+
 <figure><img src="../.gitbook/assets/PJ018 - Flyer A5 05-EDIT-7.jpg" alt=""><figcaption></figcaption></figure>
 
 
@@ -63,6 +87,12 @@ _Most projects include both digital banners for social media & websites, and fly
 ***
 
 ## Pitch Black Exodus tour and The MoonRakers
+
+_Date_
+
+Tools
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/164915925/Event-banner-Pitch-Black-The-MoonRakers)&#x20;
 
 <figure><img src="../.gitbook/assets/Pitch Black 2023 - facebook - right handed.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -72,6 +102,12 @@ _Most projects include both digital banners for social media & websites, and fly
 
 ## PsyJelly 17 — Live music (second edition) — Kaya Project, Nango Manchay
 
+_Date_
+
+Tools
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/164827263/Psychedelic-Jelly-17-live-music-event-flyer)&#x20;
+
 <figure><img src="../.gitbook/assets/PJ017 - Jan 2023 - FB Event Banner.jpg" alt=""><figcaption></figcaption></figure>
 
 
@@ -79,6 +115,12 @@ _Most projects include both digital banners for social media & websites, and fly
 ***
 
 ## PsyJelly 16 — Halfred, Iacchus, Ekorce — 5th Birthday Bash
+
+_Date_
+
+Tools
+
+🌐[�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/164741815/Psychedelic-Jelly-16-2-rooms-flyer-FB)&#x20;
 
 <figure><img src="../.gitbook/assets/PJ016 - facebook banner event blender 02.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -88,6 +130,12 @@ _Most projects include both digital banners for social media & websites, and fly
 
 ## PsyJelly 15 — Globular & Geoglyph
 
+_Date_
+
+Tools
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/164738517/Psychedelic-Jelly-15-Globular-and-Geoglyph-flyer-FB)&#x20;
+
 <figure><img src="../.gitbook/assets/PJ015 - 02 flyer event obverse A5 CMYK-2.jpg" alt=""><figcaption></figcaption></figure>
 
 
@@ -95,6 +143,12 @@ _Most projects include both digital banners for social media & websites, and fly
 ***
 
 ## PsyJelly 14 — Tea Tree, False Identity, Jaala
+
+_Date_
+
+Tools
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/126215901/Psychedelic-Jelly-14-facebook-event-banner-image)&#x20;
 
 <figure><img src="../.gitbook/assets/PJ014 - 01 A5 flyer front CMYK-4.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -104,6 +158,12 @@ _Most projects include both digital banners for social media & websites, and fly
 
 ## PsyJelly 13 — Double EP launch party
 
+_Date_
+
+Tools
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/125087323/Psychedelic-Jelly-13-Double-EP-launch-party)&#x20;
+
 <figure><img src="../.gitbook/assets/PJ013 - facebook banner PSD 08.jpg" alt=""><figcaption></figcaption></figure>
 
 
@@ -111,6 +171,14 @@ _Most projects include both digital banners for social media & websites, and fly
 ***
 
 ## PsyJelly 12 — Beltane & Danceculture Livestream
+
+_April 2020_&#x20;
+
+_Bristol, Avon, United Kingdom_&#x20;
+
+Tools: Hand-drawn, Inkscape&#x20;
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/125086295/Psychedelic-Jelly-12-Beltane-Danceculture-livestream)&#x20;
 
 <figure><img src="../.gitbook/assets/PJ012 - facebook banner 03 bluer.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -120,7 +188,23 @@ _Most projects include both digital banners for social media & websites, and fly
 
 ## PsyJelly 11 — Beatroots & Bayawaka
 
-<figure><img src="../.gitbook/assets/PJ011 - front and back.jpg" alt=""><figcaption></figcaption></figure>
+_September 2019_&#x20;
+
+_Bristol, Avon, United Kingdom_&#x20;
+
+Tools: Photoshop, and lots of visualisation
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/125057301/Psychedelic-Jelly-11-Beatroots-Bayawaka)&#x20;
+
+This flyer was really complicated to create. I tried to make the flyer paper appear be translucent, like peering through a slice of the sea. Everything I did on one side, I wrapped into a "smart object" in Photoshop and underlaid it in the background of the other side, applying a blur filter to it. My laptop of the time was not very powerfull so the process of constant re-editing took a verrrry long time.&#x20;
+
+I also learnt a bit about colour spaces during this one — when I changed the colour space, several of the layer blending modes appeared dramatically different and no longer provided the effects that I had created in the other colour space.
+
+<figure><img src="../.gitbook/assets/PJ011 - front and back.jpg" alt=""><figcaption><p>Obverse &#x26; reverse together for ease of viewing.</p></figcaption></figure>
+
+<div><figure><img src="../.gitbook/assets/flyer front - lighter - cmyk remake.png" alt=""><figcaption><p>Front side of the flyer</p></figcaption></figure> <figure><img src="../.gitbook/assets/flyer back flipped - lighter - cmyk remake.png" alt=""><figcaption><p>Reverse of the flyer. I've uploaded it flipped so that you can switch between the front &#x26; back sides, to see the effect that was visible in the printed version. <em>[GitBook currently does not support gallery viewing]</em> </p></figcaption></figure></div>
+
+<div><figure><img src="../.gitbook/assets/fb post tickets on sale - story portrait.png" alt=""><figcaption><p>This was the first event that we posted on our Instagram story, so I experimented with edits to fit the IG story aspect ratio.</p></figcaption></figure> <figure><img src="../.gitbook/assets/poster - b&#x26;w - darker &#x26; whiter.png" alt=""><figcaption><p>A monochromatic poster design to be printed as a neon poster.</p></figcaption></figure></div>
 
 
 
@@ -128,7 +212,19 @@ _Most projects include both digital banners for social media & websites, and fly
 
 ## PsyJelly 9 and Mycelium Marshland 2
 
-<figure><img src="../.gitbook/assets/PJ007 - Flyer 02.jpg" alt=""><figcaption></figcaption></figure>
+_January 2019_&#x20;
+
+_Bristol, Avon, United Kingdom_&#x20;
+
+Tools: Hand-drawn, watercolour paint, Photoshop&#x20;
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/124721351/Psychedelic-Jelly-9-Mycelium-Marshland-2)&#x20;
+
+_Co-operative event between Mycelium Marshland and Psychedelic Jelly_&#x20;
+
+<figure><img src="../.gitbook/assets/PJ009 - Poster 02 - Mycelium Marshland-3.jpg" alt=""><figcaption></figcaption></figure>
+
+<div><figure><img src="../.gitbook/assets/PJ009 - Poster 01 CMYK 01.jpg" alt=""><figcaption><p>Original final version. I wasn't happy with it because my paint-mixing method was not good and the colours looked too muddy for my liking. It was too hard to get the text to stand out, so in the end I made the colour edit that you can see above this picture.</p></figcaption></figure> <figure><img src="../.gitbook/assets/pj009 - animated-process-7s.gif" alt=""><figcaption><p>A GIF showing each of the steps in the creation process.</p></figcaption></figure></div>
 
 
 
@@ -136,13 +232,35 @@ _Most projects include both digital banners for social media & websites, and fly
 
 ## PsyJelly 8 and Animal Behaviour: Dub vs Psydub
 
+_November 2018_&#x20;
+
+_Bristol, Avon, United Kingdom_&#x20;
+
+Tools: Photoshop&#x20;
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/124252705/Psychedelic-Jelly-8-Animal-Behaviour-Dub-vs-Psydub)&#x20;
+
+_Co-designed with Jonah P-F_&#x20;
+
+_Co-operative event between Psychedelic Jelly and Animal Behaviour, supported with speaker rig by SubSolar Sound Control_
+
 <figure><img src="../.gitbook/assets/PJ008 - Dub VS Psy poster - 06 farran-5.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
 ***
 
-## PsyJelly 7
+## PsyJelly 7 — Psybreaks Special with Tea Tree & Kwah
+
+_September 2018_&#x20;
+
+_Bristol, Avon, United Kingdom_&#x20;
+
+Tools: Photoshop&#x20;
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/70299131/Psychedelic-Jelly-7)&#x20;
+
+_Speaker rig provided by SubSolar Sound Control of Bristol & Avon_&#x20;
 
 <figure><img src="../.gitbook/assets/PJ007 - Flyer 02.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -152,13 +270,31 @@ _Most projects include both digital banners for social media & websites, and fly
 
 ## PsyJelly 6 — Navigate launch party _with_ Wolf Tech
 
+_May 2018_&#x20;
+
+_Bristol, Avon, United Kingdom_&#x20;
+
+Tools: Photoshop
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/65489261/Psychedelic-Jelly-6-Navigate)&#x20;
+
+Co-designed with Tom Chant // Wolf Tech&#x20;
+
 <figure><img src="../.gitbook/assets/PJ006 - v25 navigation poster - updated contrast.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
 ***
 
-## PsyJelly 5
+## PsyJelly 5 — First anniversary & Triplicity warm-up party
+
+_March 2018_ &#x20;
+
+_Bristol, Avon, United Kingdom_&#x20;
+
+Tools: Photoshop&#x20;
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/65488801/Psychedelic-Jelly-5)&#x20;
 
 <figure><img src="../.gitbook/assets/PJ005 - facebook post image 4.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -168,6 +304,14 @@ _Most projects include both digital banners for social media & websites, and fly
 
 ## PsyJelly 4
 
+_November 2017_ &#x20;
+
+_Bristol, Avon, United Kingdom_&#x20;
+
+Tools: Photoshop, Inkscape&#x20;
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/65488623/Psychedelic-Jelly-4)&#x20;
+
 <figure><img src="../.gitbook/assets/PJ004 - jellyfish poster landscape 03.jpg" alt=""><figcaption></figcaption></figure>
 
 
@@ -176,13 +320,33 @@ _Most projects include both digital banners for social media & websites, and fly
 
 ## PsyJelly 3
 
-<div><figure><img src="../.gitbook/assets/PJ003 - jellyfish poster facebook advert size.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/PJ003 - monochrome poster with metatron.jpg" alt=""><figcaption></figcaption></figure></div>
+_November 2017_&#x20;
+
+_Bristol, Avon, United Kingdom_&#x20;
+
+Tools: Photoshop, Inkscape, watercolour paint
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/65485995/Psychedelic-Jelly-3)&#x20;
+
+_Jellyfish designed and painted by Leah Branwen-Gilly. Thank you Leah!_ 🙏🪼&#x20;
+
+<figure><img src="../.gitbook/assets/PJ003 - jellyfish poster facebook advert size.jpg" alt=""><figcaption><p>Landscape flyer for print and web banner</p></figcaption></figure>
+
+<div><figure><img src="../.gitbook/assets/PJ003 Portrait poster - lost the original.png" alt=""><figcaption><p>Portrait poster</p></figcaption></figure> <figure><img src="../.gitbook/assets/PJ003 - monochrome poster with metatron.jpg" alt=""><figcaption><p>Monochrome version for neon posters</p></figcaption></figure> <figure><img src="../.gitbook/assets/pj003 - monochrome poster - neon green.png" alt=""><figcaption><p>Concept art — monochromised version intended to be printed on neon posters</p></figcaption></figure></div>
 
 
 
 ***
 
 ## PsyJelly 2
+
+_October 2017_ &#x20;
+
+_Bristol, Avon, United Kingdom_&#x20;
+
+Tools: Photoshop, Inkscape&#x20;
+
+[🌐�&#xDD17;_&#x42;̄ehance link_](https://www.behance.net/gallery/65418667/Psychedelic-Jelly-2)&#x20;
 
 <figure><img src="../.gitbook/assets/PJ002 - jellyfish yellow.jpg" alt=""><figcaption></figcaption></figure>
 
