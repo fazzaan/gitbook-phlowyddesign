@@ -202,9 +202,9 @@ I also learnt a bit about colour spaces during this one — when I changed the c
 
 <figure><img src="../.gitbook/assets/PJ011 - front and back.jpg" alt=""><figcaption><p>Obverse &#x26; reverse together for ease of viewing.</p></figcaption></figure>
 
-<div><figure><img src="../.gitbook/assets/flyer front - lighter - cmyk remake.png" alt=""><figcaption><p>Front side of the flyer</p></figcaption></figure> <figure><img src="../.gitbook/assets/flyer back flipped - lighter - cmyk remake.png" alt=""><figcaption><p>Reverse of the flyer. I've uploaded it flipped so that you can switch between the front &#x26; back sides, to see the effect that was visible in the printed version. <em>[GitBook currently does not support gallery viewing]</em> </p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PJ011 - flyer front - lighter - cmyk remake.png" alt=""><figcaption><p>Front side of the flyer</p></figcaption></figure> <figure><img src="../.gitbook/assets/PJ011 - flyer ob flipp - lighter - cmyk remake.png" alt=""><figcaption><p>Reverse of the flyer. I've uploaded it flipped so that you can switch between the front &#x26; back sides, to see the effect that was visible in the printed version. <em>[GitBook currently does not support gallery viewing]</em> </p></figcaption></figure></div>
 
-<div><figure><img src="../.gitbook/assets/fb post tickets on sale - story portrait.png" alt=""><figcaption><p>This was the first event that we posted on our Instagram story, so I experimented with edits to fit the IG story aspect ratio.</p></figcaption></figure> <figure><img src="../.gitbook/assets/poster - b&#x26;w - darker &#x26; whiter.png" alt=""><figcaption><p>A monochromatic poster design to be printed as a neon poster.</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PJ011 - fb post tickets on sale - story.png" alt=""><figcaption><p>This was the first event that we posted on our Instagram story, so I experimented with edits to fit the IG story aspect ratio.</p></figcaption></figure> <figure><img src="../.gitbook/assets/PJ011 - poster - b&#x26;w - darker &#x26; whiter.png" alt=""><figcaption><p>A monochromatic poster design to be printed as a neon poster.</p></figcaption></figure></div>
 
 
 
