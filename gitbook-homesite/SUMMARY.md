@@ -19,6 +19,7 @@
   * [Hexic Vert](portfolio/font-design/hexic-vert.md)
 * [✒️ Scripts & Alphabets](portfolio/scripts-and-alphabets.md)
 * [🎨 Art](portfolio/art.md)
+* [🧊 3D animation & renders](portfolio/3d-animation-and-renders.md)
 * [🎉 Event décor](portfolio/event-decor.md)
 * [🤹 Flow arts](portfolio/flow-arts.md)
 
