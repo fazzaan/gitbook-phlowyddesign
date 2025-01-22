@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Phlowyd Design Homepage](README.md)
+* [Relationships](relationships.md)
 
 ## Portfolio
 

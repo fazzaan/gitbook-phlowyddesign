@@ -12,30 +12,6 @@ _Click on the project card to scroll to it on this page._
 _Most projects include both digital banners for social media & websites, and flyers rendered for print._
 {% endhint %}
 
-<details>
-
-<summary>Links to major projects</summary>
-
-## Deep Sea Frequencies
-
-\[ was Psychedelic Jelly ]
-
-* [Facebook page](https://www.facebook.com/DeepSeaFrequencies) — keep up to date with our events and releases
-* [SoundCloud page](https://soundcloud.com/DeepSeaFrequencies) — stream our releases and favourite music
-* [Bandcamp page](https://deepseafrequencies.bandcamp.com/) — buy our music, support our artists 💜
-* Instagram page — (currently inactive)
-
-## BoBo Food
-
-* [Facebook page](https://www.facebook.com/GreekBoBoFood)&#x20;
-* Instagram page&#x20;
-
-## Anthropos Festival
-
-
-
-</details>
-
 
 
 ## Contents
