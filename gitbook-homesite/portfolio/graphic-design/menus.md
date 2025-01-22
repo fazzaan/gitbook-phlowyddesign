@@ -8,7 +8,7 @@ _Most recent project at the top._
 
 _Click on the project card to scroll to it on this page._
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th>Title</th><th>Client</th><th>Date</th><th data-type="content-ref"></th><th data-hidden>Item</th><th data-hidden data-card-cover data-type="files">Cover image</th><th data-hidden data-card-target data-type="content-ref">Link to portfolio section</th><th data-hidden>Location</th><th data-hidden data-type="number">Work hours</th><th data-hidden>Tools used<select multiple><option value="ho1gctWVdhUC" label="Blender" color="blue"></option><option value="FRkdEdNAcdwN" label="Inkscape" color="blue"></option><option value="9k3ASTGz3h5n" label="Figma" color="blue"></option><option value="5QckY43k6ESW" label="Mandelbulb" color="blue"></option><option value="q6SmeA27Fy3o" label="Photoshop" color="blue"></option><option value="SBHyQL5sP4xT" label="FontForge" color="blue"></option><option value="CBrJI6ihmrKY" label="Hand" color="blue"></option></select></th><th data-hidden data-type="content-ref">Bēhance</th></tr></thead><tbody><tr><td><strong>New pizza menu and menu rebuild</strong></td><td>BoBo Food</td><td><em>November 2024</em></td><td><a href="https://www.behance.net/gallery/208869371/BoBo-Pizza-Restaurant-menu">https://www.behance.net/gallery/208869371/BoBo-Pizza-Restaurant-menu</a></td><td>New menu</td><td><a href="../../.gitbook/assets/BoBo menu 2024 - 00 - Front page - 4th design.jpg">BoBo menu 2024 - 00 - Front page - 4th design.jpg</a></td><td><a href="menus.md#new-pizza-menu-bobo-food">#new-pizza-menu-bobo-food</a></td><td>Đà Nẵng, Việt Nam</td><td>null</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td><a href="https://www.behance.net/gallery/208869371/BoBo-Pizza-Restaurant-menu">https://www.behance.net/gallery/208869371/BoBo-Pizza-Restaurant-menu</a></td></tr><tr><td><strong>Menu rebuild</strong></td><td>BoBo Food</td><td><em>April 2023</em></td><td></td><td>Pizza menu</td><td><a href="../../.gitbook/assets/BoBo Menu 2023 - Page 0 - Front page.jpg">BoBo Menu 2023 - Page 0 - Front page.jpg</a></td><td><a href="menus.md#greek-food-menu-bobo-food">#greek-food-menu-bobo-food</a></td><td>Đà Nẵng, Việt Nam</td><td>null</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th>Title</th><th>Client</th><th>Date</th><th data-type="content-ref"></th><th data-hidden>Item</th><th data-hidden data-card-cover data-type="files">Cover image</th><th data-hidden data-card-target data-type="content-ref">Link to portfolio section</th><th data-hidden>Location</th><th data-hidden data-type="number">Work hours</th><th data-hidden>Tools used<select multiple><option value="ho1gctWVdhUC" label="Blender" color="blue"></option><option value="FRkdEdNAcdwN" label="Inkscape" color="blue"></option><option value="9k3ASTGz3h5n" label="Figma" color="blue"></option><option value="5QckY43k6ESW" label="Mandelbulb" color="blue"></option><option value="q6SmeA27Fy3o" label="Photoshop" color="blue"></option><option value="SBHyQL5sP4xT" label="FontForge" color="blue"></option><option value="CBrJI6ihmrKY" label="Hand" color="blue"></option></select></th><th data-hidden data-type="content-ref">Bēhance</th></tr></thead><tbody><tr><td><strong>New pizza menu and menu rebuild</strong></td><td>BoBo Food</td><td><em>November 2024</em></td><td><a href="https://www.behance.net/gallery/217427615/BoBo-Pizza-2024-Restaurant-menu">https://www.behance.net/gallery/217427615/BoBo-Pizza-2024-Restaurant-menu</a></td><td>New menu</td><td><a href="../../.gitbook/assets/BoBo menu 2024 - 00 - Front page - 4th design.jpg">BoBo menu 2024 - 00 - Front page - 4th design.jpg</a></td><td><a href="menus.md#new-pizza-menu-bobo-food">#new-pizza-menu-bobo-food</a></td><td>Đà Nẵng, Việt Nam</td><td>null</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td><a href="https://www.behance.net/gallery/208869371/BoBo-Pizza-Restaurant-menu">https://www.behance.net/gallery/208869371/BoBo-Pizza-Restaurant-menu</a></td></tr><tr><td><strong>Menu rebuild</strong></td><td>BoBo Food</td><td><em>April 2023</em></td><td><a href="https://www.behance.net/gallery/208869371/BoBo-Pizza-2023-Restaurant-menu">https://www.behance.net/gallery/208869371/BoBo-Pizza-2023-Restaurant-menu</a></td><td>Pizza menu</td><td><a href="../../.gitbook/assets/BoBo Menu 2023 - Page 0 - Front page.jpg">BoBo Menu 2023 - Page 0 - Front page.jpg</a></td><td><a href="menus.md#greek-food-menu-bobo-food">#greek-food-menu-bobo-food</a></td><td>Đà Nẵng, Việt Nam</td><td>null</td><td><span data-option="q6SmeA27Fy3o">Photoshop</span></td><td></td></tr></tbody></table>
 
 ***
 
@@ -16,9 +16,9 @@ _Click on the project card to scroll to it on this page._
 
 _November 2024_
 
-_Location_
+_Đà Nẵng, Việt Nam_&#x20;
 
-🌐�&#xDD17;_&#x56;iew on Bēhance_&#x20;
+[🌐�&#xDD17;_&#x56;iew on Bēhance_](https://www.behance.net/gallery/217427615/BoBo-Pizza-2024-Restaurant-menu)&#x20;
 
 A Greek-style restaurant in Da Nang, owned and run by local Vietnamese friends of mine, decided to expand their business into cooking pizzas. One year prior, [📄I had updated their previous menu](menus.md#greek-food-menu-bobo-food) and then rebuilt the whole thing from scratch because they didn't have access to the original menu PSDs.&#x20;
 
@@ -42,15 +42,13 @@ At the end of 2024 they returned to ask me to produce the menu for their new piz
 
 _April 2023_
 
-_Đà Nẵng_
+_Đà Nẵng, Việt Nam_&#x20;
 
-[🌐�&#xDD17;_&#x56;iew on Bēhance_](https://www.behance.net/gallery/208869371/BoBo-Pizza-Restaurant-menu)
+[🌐�&#xDD17;_&#x56;iew on Bēhance_](https://www.behance.net/gallery/208869371/BoBo-Pizza-2023-Restaurant-menu)
 
 To launch my friend's new pizza restaurant as soon as possible, I first created a quick menu layout while waiting for him to photograph each of his new pizzas. The hero images are not ours, this menu was just a mockup.
 
-
-
-### 3rd design
+### 3rd design — final menu
 
 The third design was printed for use in the restaurant, but after one week, the restaurant owner had developed several more pizza recipes to add to his menu, so after this I rebuilt the whole menu again.
 
