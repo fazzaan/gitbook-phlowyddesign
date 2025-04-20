@@ -11,7 +11,7 @@
   * [Text, Logo, Imagery](portfolio/graphic-design/text-and-logo-edits/README.md)
     * [Triskelagua case study](portfolio/graphic-design/text-and-logo-edits/triskelagua-case-study.md)
 * [🅰️ Font Design](portfolio/font-design/README.md)
-  * [🚂 BlockTrain](portfolio/font-design/blocktrain.md)
+  * [🚂 BlockTrain 🔒](portfolio/font-design/blocktrain.md)
   * [TallThin](portfolio/font-design/tallthin.md)
   * [Runic](portfolio/font-design/runic.md)
   * [🇰🇷 Hangeulic](portfolio/font-design/hangeulic.md)
