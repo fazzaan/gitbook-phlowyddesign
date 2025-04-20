@@ -11,6 +11,7 @@
   * [Text, Logo, Imagery](portfolio/graphic-design/text-and-logo-edits/README.md)
     * [Triskelagua case study](portfolio/graphic-design/text-and-logo-edits/triskelagua-case-study.md)
 * [🅰️ Font Design](portfolio/font-design/README.md)
+  * [➗ Dots N Lines](portfolio/font-design/dots-n-lines.md)
   * [🚂 BlockTrain 🔒](portfolio/font-design/blocktrain.md)
   * [TallThin](portfolio/font-design/tallthin.md)
   * [Runic](portfolio/font-design/runic.md)
