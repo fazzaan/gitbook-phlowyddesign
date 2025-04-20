@@ -18,7 +18,13 @@ This image shows all the letters of the font, grouped & sequenced by similarity 
 
 _None yet._&#x20;
 
+## Letters
 
+The NewEng script (mine, not another by the same name), includes all 26 English alphabet letters, plus another 15 borrowed from other scripts and eras.
+
+A Æ B C Ç D E F Φ Þ Đ G Ȝ H Ƕ I J K Ʞ L M N И Ŋ O Œ P Q R S Ʃ T Ч U Ȣ V W Ꝏ/Ѡ X Y Z
+
+a æ b c ç d e f φ þ ð g ȝ h ƕ i j k ʞ l m n и ŋ o œ p q r s ʃ t ч u ȣ v w ꝏ/ѡ x y z
 
 ***
 
