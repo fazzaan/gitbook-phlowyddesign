@@ -19,3 +19,19 @@ _For more info, and to see its development, click each font to visit its dedicat
 * [https://www.fontspace.com/phlowyd](https://www.fontspace.com/phlowyd)&#x20;
 * myfonts (not yet)&#x20;
 * open foundry (not yet)&#x20;
+
+
+
+***
+
+## Font development
+
+* add dozenal glyphs 9+1 and 9+2 to major fonts (Calibri, Arial, Tahoma, Aptos, Comic Sans) and create an alternative GitHub site (or other) to distribute[^1] the modified fonts
+* develop dot-derived numerals for my existing fonts
+* develop dot-derived numerals for those same major fonts
+
+## Skill development
+
+* Learn how to include alternate numeral glyphs in a font file
+
+[^1]: perhaps distribute on nostr

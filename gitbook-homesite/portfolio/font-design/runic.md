@@ -73,3 +73,10 @@ All sample words include letters from the [https://app.gitbook.com/o/bhv2aXe6eEx
 * Not enough kerning has been done, especially with the small vowels like A and O.
 * Narrow, vertical glyph edges perhaps should be kerned further apart, else they visually merge.
 * The space glyph is too wide.
+
+### Variants
+
+* A rougher, weathered version, where the edges of the letters are uneven, and the corners are soft.
+* A fluid version, handwritten glyphs derived from the rune shapes:&#x20;
+  * a) by mimicking the shapes;
+  * b) by considering the "stroke order" methodology of how runes were/might have been drawn.

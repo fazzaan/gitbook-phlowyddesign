@@ -20,6 +20,7 @@
   * [Chipboard Black](portfolio/font-design/chipboard-black.md)
   * [Leaf Tech](portfolio/font-design/leaf-tech.md)
   * [Hexic Vert](portfolio/font-design/hexic-vert.md)
+  * [💠 Model page](portfolio/font-design/model-page.md)
 * [✒️ Scripts & Alphabets](portfolio/scripts-and-alphabets.md)
 * [🎨 Art](portfolio/art.md)
 * [🧊 3D animation & renders](portfolio/3d-animation-and-renders.md)
