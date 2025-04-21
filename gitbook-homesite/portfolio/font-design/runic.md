@@ -18,6 +18,8 @@ A Æ B C Ç D E F Φ Þ Đ G Ȝ H Ƕ I J K Ʞ L M N И Ŋ O Œ P Q R S Ʃ T Ч 
 
 a æ b c ç d e f φ þ ð g ȝ h ƕ i j k ʞ l m n и ŋ o œ p q r s ʃ t ч u ȣ v w ꝏ/ѡ x y z
 
+<figure><img src="../../.gitbook/assets/Alphabet Runic Lowercase.svg" alt=""><figcaption><p>NewEng alphabet, with gaps for missing glyphs (ƕ, и, œ, ꝏ)</p></figcaption></figure>
+
 ## Numerals
 
 None yet.
@@ -45,3 +47,33 @@ All sample words include letters from the [https://app.gitbook.com/o/bhv2aXe6eEx
 <figure><img src="../../.gitbook/assets/Word Runic Psychedelic.svg" alt=""><figcaption><p>psȳʞedelic (psychedelic)</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Word Runic Stronger.svg" alt=""><figcaption><p>stroŋger (stronger)</p></figcaption></figure>
+
+***
+
+## Criticisms
+
+<details>
+
+<summary>Version 1.003</summary>
+
+My own criticisms of this font:
+
+* The glyph for Ŋŋ unintentionally looks like two stacked Ns, which could be misinterpreted as Ññ.
+* Not enough kerning has been done, especially with the small vowels like A and O.
+* Narrow, vertical glyph edges perhaps should be kerned further apart, else they visually merge.
+* The space glyph is too wide.
+
+</details>
+
+***
+
+## To Do
+
+* Basic diacritics beyond macron (ā ē̄ ī ō ū).&#x20;
+  * At least do the upward accent.&#x20;
+  * Needs many diacritics for full NewEng support.
+* Numerals
+  * Dozenal
+  * Dot-count numerals (originated in BlockTrain) — learn how to include alternative number figures in font files.
+* Punctuation
+* Common symbols
