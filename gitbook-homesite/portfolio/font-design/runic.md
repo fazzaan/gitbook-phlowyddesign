@@ -50,24 +50,9 @@ All sample words include letters from the [https://app.gitbook.com/o/bhv2aXe6eEx
 
 ***
 
-## Criticisms
-
-<details>
-
-<summary>Version 1.003</summary>
-
-My own criticisms of this font:
-
-* The glyph for Ŋŋ unintentionally looks like two stacked Ns, which could be misinterpreted as Ññ.
-* Not enough kerning has been done, especially with the small vowels like A and O.
-* Narrow, vertical glyph edges perhaps should be kerned further apart, else they visually merge.
-* The space glyph is too wide.
-
-</details>
-
-***
-
 ## To Do
+
+### Further development
 
 * Basic diacritics beyond macron (ā ē̄ ī ō ū).&#x20;
   * At least do the upward accent.&#x20;
@@ -77,3 +62,10 @@ My own criticisms of this font:
   * Dot-count numerals (originated in BlockTrain) — learn how to include alternative number figures in font files.
 * Punctuation
 * Common symbols
+
+### Fixes
+
+* The glyph for Ŋŋ unintentionally looks like two stacked Ns, which could be misinterpreted as Ññ.
+* Not enough kerning has been done, especially with the small vowels like A and O.
+* Narrow, vertical glyph edges perhaps should be kerned further apart, else they visually merge.
+* The space glyph is too wide.
