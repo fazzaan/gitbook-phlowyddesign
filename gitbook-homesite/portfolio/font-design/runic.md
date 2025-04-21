@@ -20,6 +20,10 @@ a æ b c ç d e f φ þ ð g ȝ h ƕ i j k ʞ l m n и ŋ o œ p q r s ʃ t ч u
 
 <figure><img src="../../.gitbook/assets/Alphabet Runic Lowercase.svg" alt=""><figcaption><p>NewEng alphabet, with gaps for missing glyphs (ƕ, и, œ, ꝏ)</p></figcaption></figure>
 
+### Diacritics
+
+<figure><img src="../../.gitbook/assets/Alphabet Runic Diacritics Vowels.svg" alt=""><figcaption><p>These are pretty messy right now. ǣ and ȣ̄ were not considered at all.</p></figcaption></figure>
+
 ## Numerals
 
 None yet.
