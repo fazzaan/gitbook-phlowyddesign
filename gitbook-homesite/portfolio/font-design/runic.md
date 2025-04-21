@@ -19,3 +19,29 @@ A Æ B C Ç D E F Φ Þ Đ G Ȝ H Ƕ I J K Ʞ L M N И Ŋ O Œ P Q R S Ʃ T Ч 
 a æ b c ç d e f φ þ ð g ȝ h ƕ i j k ʞ l m n и ŋ o œ p q r s ʃ t ч u ȣ v w ꝏ/ѡ x y z
 
 ## Numerals
+
+None yet.
+
+
+
+## Sample words
+
+All sample words include letters from the [https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/nQuhfcBU5w4vA1rwurTv/](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/nQuhfcBU5w4vA1rwurTv/ "mention").
+
+<figure><img src="../../.gitbook/assets/Word Runic Aether Circle.svg" alt=""><figcaption><p>æþer (aether), çircl (circle)</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Word Runic Clothing.svg" alt=""><figcaption><p>clōðiŋ (clothing)</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Word Runic Couple Should.svg" alt=""><figcaption><p>cȣpl (couple), ʃȣld (should)</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Word Runic Fifth Eighth.svg" alt=""><figcaption><p>fifþ (fifth), eiȝtþ (eighth)</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Word Runic Mechanic.svg" alt=""><figcaption><p>meʞanic (mechanic)</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Word Runic Month Kitchen.svg" alt=""><figcaption><p>monþ (month), kiчen (kitchen)</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Word Runic Photograph.svg" alt=""><figcaption><p>φōtograφ (photograph)</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Word Runic Psychedelic.svg" alt=""><figcaption><p>psȳʞedelic (psychedelic)</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Word Runic Stronger.svg" alt=""><figcaption><p>stroŋger (stronger)</p></figcaption></figure>
