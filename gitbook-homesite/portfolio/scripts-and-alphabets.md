@@ -20,6 +20,14 @@ It copes with the entirety of modern English, preserving thrōth[^1] etymology 
 
 > _Please note that there is another script by the same name. I came up with this (very uninspired) name by myself, and intend to rename it, but at this time I haven't thought of a new name._
 
+Here is the full 41-letter alphabet:
+
+<mark style="color:blue;">A Æ B C Ç D E F Φ Þ Đ G Ȝ H Ƕ I J K Ʞ L M N И Ŋ O Œ P Q R S Ʃ T Ч U Ȣ V W Ꝏ/Ѡ X Y Z</mark>
+
+<mark style="color:blue;">a æ b c ç d e f φ þ ð g ȝ h ƕ i j k ʞ l m n и ŋ o œ p q r s ʃ t ч u ȣ v w ꝏ/ѡ x y z</mark>
+
+I may replace Latin Double-O with Cyrillic Omega **Ѡ ѡ** in the near future. It is rarely used in modern Cyrillic languages, but it gets much better treatment in modern fonts than Double-O, with decent diacritic anchoring in several major fonts.
+
 You can learn more about NewEng on my dedicated website:
 
 {% content-ref url="https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/nQuhfcBU5w4vA1rwurTv/" %}
