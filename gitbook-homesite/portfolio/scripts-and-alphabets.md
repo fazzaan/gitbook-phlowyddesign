@@ -34,6 +34,14 @@ You can learn more about NewEng on my dedicated website:
 [https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/nQuhfcBU5w4vA1rwurTv/](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/nQuhfcBU5w4vA1rwurTv/)
 {% endcontent-ref %}
 
+* installable Windows keyboard layout
+* keyboard layout images
+* Android keyboard layout (built inside a paid app (cheap)
+* typing training
+* learn how to spell using it
+* Oxford 3000 and Oxford 5000 word lists — spreadsheet and .dic (dictionary files for office apps)
+* alphabet poster — downloadable & printable&#x20;
+
 ***
 
 ## Dot-derived Numerals
