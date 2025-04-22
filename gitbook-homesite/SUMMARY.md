@@ -26,6 +26,7 @@
 * [🧊 3D animation & renders](portfolio/3d-animation-and-renders.md)
 * [🎉 Event décor](portfolio/event-decor.md)
 * [🤹 Flow arts](portfolio/flow-arts.md)
+* [Linguistics](portfolio/linguistics.md)
 
 ## Design Styles
 
