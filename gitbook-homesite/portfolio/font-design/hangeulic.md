@@ -157,13 +157,15 @@ To Do
 
 ### Fixes
 
-* perhaps rename the font because it's not much like Hangeul at all really. Actually I have a new handdrawn one that looks like a swooshy blend of Hangeul and Kana.
-* diacritics need
+* perhaps rename the font because it's not much like Hangeul at all really. (Actually I have a new handdrawn one that looks like a swooshy blend of Korean Hangeul and Japanese Kana.)
+* diacritics need major adjustment. Since starting this font a year ago, I've learnt how to handle diacritics better using FontForge, so this shouldn't be too stressful to handle.
 
 ### Variants
 
 * ideas for typeface variations -- stylistic exploration
+  * experiment with different nib shapes & angles, because this current one is a bit overbearing.
 * ideas for font variations -- weighting methods, serifs, italicization, etc
+  * could the Regular weight have some varying thicknesses along one axis or some angles?
 
 ***
 
