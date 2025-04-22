@@ -1,5 +1,7 @@
 ---
 icon: tally-2
+cover: ../../.gitbook/assets/TallThin Font Cover landscape.svg
+coverY: 0
 ---
 
 # TallThin

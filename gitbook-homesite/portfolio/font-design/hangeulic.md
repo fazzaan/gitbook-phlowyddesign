@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Hangeulic Font Cover landscape.svg
+coverY: 0
+---
+
 # 🇰🇷 Hangeulic
 
 <div data-full-width="false"><figure><img src="../../.gitbook/assets/Hangeulic Font Cover landscape.svg" alt=""><figcaption></figcaption></figure></div>

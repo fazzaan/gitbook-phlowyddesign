@@ -1,5 +1,7 @@
 ---
 icon: microchip
+cover: ../../.gitbook/assets/Chipboard Black Font Cover landscape.svg
+coverY: 0
 ---
 
 # Chipboard Black

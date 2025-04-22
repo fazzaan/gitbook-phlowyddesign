@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Thaiic Font Cover landscape.svg
+coverY: 0
+---
+
 # 🇹🇭 Thaiic
 
 <div data-full-width="false"><figure><img src="../../.gitbook/assets/Thaiic Font Cover landscape.svg" alt=""><figcaption></figcaption></figure></div>

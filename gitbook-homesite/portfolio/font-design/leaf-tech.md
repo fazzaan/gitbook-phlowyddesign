@@ -1,5 +1,7 @@
 ---
 icon: envira
+cover: ../../.gitbook/assets/Leaf Tech Font Cover landscape.svg
+coverY: 0
 ---
 
 # Leaf Tech

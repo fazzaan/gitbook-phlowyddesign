@@ -1,5 +1,7 @@
 ---
 icon: hat-wizard
+cover: ../../.gitbook/assets/Runic Font Cover landscape.svg
+coverY: 0
 ---
 
 # Runic
