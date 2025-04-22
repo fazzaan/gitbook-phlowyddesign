@@ -32,6 +32,7 @@ icon: comments
 * I view the lexicon of a language as an immutable historical record of the people, culture and land
   * However, this depends on having access to source materials from across the eras, and on those materials evading censorship
 * I've studied some of the source languages (or their descendants) of English to a basic level, including: German, Greek, Spanish, Hindi.
+* View my (inaccurate) language trees on my linguistics site here: [https://app.gitbook.com/s/qietP059fhAwTgrpg1oR/maps](https://app.gitbook.com/s/qietP059fhAwTgrpg1oR/maps "mention")
 
 
 
