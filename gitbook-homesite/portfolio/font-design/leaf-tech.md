@@ -12,7 +12,7 @@ coverY: 0
 
 
 
-This was going to be a showcase, but in creating this portfolio, it's allowed me to discover all the unfinished aspects of each of my projects. Now it is instead a catalogue, a) to showcase my work, and b) as a project tracker to take control of my project management.
+This was going to be a showcase, but creating this portfolio has helped me discover all the unfinished aspects of each of my projects. Now, it is instead a catalogue, a) to showcase my work, and b) as a project tracker to develop my project management skills.
 
 Leaf Tech is the second-ever font that I made as a digital & installable font file. Thus, it does not feature any NewEng letters, and it is not well-formed. However, it does feature full support for Vietnamese.
 
@@ -37,8 +37,6 @@ Leaf Tech is the second-ever font that I made as a digital & installable font fi
 </details>
 
 ### Diacritics
-
-* Vector image of all glyphs with respective diacritics
 
 <details>
 
@@ -124,14 +122,36 @@ In NewEng, double-layer diacritiqued consonants include: s̈̌  ç̌  ẍ̌ &#x2
 
 ## Numerals
 
-* Vector image of numerals
+<figure><img src="../../.gitbook/assets/Word Leaf Tech Numbers Decimal.svg" alt=""><figcaption></figcaption></figure>
+
+#### To do
+
+* Dozenal numerals: ↊ ↋
 * Vector image of dot-derived numerals
 
 
 
 ## Sample words
 
-* Vector images of a range of words, specifically ones containing NewEng letters
+<figure><img src="../../.gitbook/assets/Word Leaf Tech Aether Circle.svg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Word Leaf Tech Clothing Weather.svg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Word Leaf Tech Couple Should Ought.svg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Word Leaf Tech Mechanic Techno.svg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Word Leaf Tech Month Kitchen.svg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Word Leaf Tech Photograph Moon.svg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Word Leaf Tech Psychedelic.svg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Word Leaf Tech Stronger Thanks.svg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Word Leaf Tech Third Fourth Fifth Eighth.svg" alt=""><figcaption></figcaption></figure>
+
+
 
 ***
 
@@ -140,17 +160,26 @@ To Do
 
 ### Further development
 
-* incomplete aspects of the font
-* diacritics, etc
+* common diacritics
+* NewEng letters
+* NewEng diacritics
+* Dozenal numbers
+* add a few more ligature glyphs
 
 ### Fixes
 
-* bugs — glyphic, kerning, diacritics
+* fix up diacritics for Vietnamese
+* improve kerning
+* improve ligatures with more-customised glyph variants for legibility
 
 ### Variants
 
-* ideas for typeface variations -- stylistic exploration
-* ideas for font variations -- weighting methods, serifs, italicization, etc
+* different line thicknesses for vertical and horizontal strokes
+* light-weighted variant with different stroke thicknesses
+* heavy-weighted font variant
+* italicized
+* serifized
+* more-organic one — this current typeface is very geometric, and only simple at that.
 
 ***
 
