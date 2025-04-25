@@ -27,6 +27,13 @@ a æ b c ç d e f φ þ ð g ȝ h ƕ i j k ʞ l m n и ŋ o œ p q r s ʃ t ч u
 
 _None yet._&#x20;
 
+#### To do
+
+* dots n lines — decimal
+* dots n lines — dozenal ↊ ↋
+* dots n lines — decimal — dot-derived (see [blocktrain.md](blocktrain.md "mention")) (store as alternate numeral glyphs)
+* dots n lines — dozenal — dot-derived (store as alternate numeral glyphs — is that possible)
+
 ## Sample words
 
 <figure><img src="../../.gitbook/assets/Word DotsNLines Aether.svg" alt=""><figcaption></figcaption></figure>
@@ -58,6 +65,7 @@ To Do
 
 * incomplete aspects of the font
 * diacritics, etc
+* numerals — decimal, dozenal; dot-derived alternates
 
 ### Fixes
 
