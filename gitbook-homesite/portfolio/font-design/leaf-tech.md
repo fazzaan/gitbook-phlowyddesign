@@ -18,11 +18,6 @@ Leaf Tech is the second-ever font that I made as a digital & installable font fi
 
 ## Letters
 
-* NewEng script etc
-* Vector image of all glyphs
-
-<figure><img src="../../.gitbook/assets/Alphabet Leaf Tech Both Cases - Square.svg" alt=""><figcaption></figcaption></figure>
-
 {% tabs %}
 {% tab title="Uppercase alphabet" %}
 <figure><img src="../../.gitbook/assets/Alphabet Leaf Tech Uppercase.svg" alt=""><figcaption></figcaption></figure>
@@ -35,27 +30,19 @@ Leaf Tech is the second-ever font that I made as a digital & installable font fi
 
 <details>
 
-<summary>Uppercase vowels with diacritics</summary>
+<summary>Full alphabet</summary>
 
-_This was going to be a showcase, but in creating this portfolio, it's allowed me to discover all the unfinished aspects of each of my projects. Now it is instead a catalogue, a) to showcase my work, and b) as a project tracker to take control of my project management._
-
-<figure><img src="../../.gitbook/assets/Alphabet Leaf Tech Diacritics Vowels Uppercase.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Alphabet Leaf Tech Both Cases - Square.svg" alt=""><figcaption></figcaption></figure>
 
 </details>
 
-<details>
+### Diacritics
 
-<summary>Lowercase vowels with diacritics</summary>
-
-_This was going to be a showcase, but in creating this portfolio, it's allowed me to discover all the unfinished aspects of each of my projects. Now it is instead a catalogue, a) to showcase my work, and b) as a project tracker to take control of my project management._
-
-<figure><img src="../../.gitbook/assets/Alphabet Leaf Tech Diacritics Vowels Lowercase.svg" alt=""><figcaption></figcaption></figure>
-
-</details>
+* Vector image of all glyphs with respective diacritics
 
 <details>
 
-<summary>Vietnamese uppercase glyphs</summary>
+<summary>Vietnamese UPPERcase glyphs</summary>
 
 <figure><img src="../../.gitbook/assets/Alphabet Leaf Tech Vietnamese Uppercase.svg" alt=""><figcaption></figcaption></figure>
 
@@ -63,17 +50,75 @@ _This was going to be a showcase, but in creating this portfolio, it's allowed m
 
 <details>
 
-<summary>Vietnamese lowercase glyphs</summary>
+<summary>Vietnamese LOWERcase glyphs</summary>
 
 <figure><img src="../../.gitbook/assets/Alphabet Leaf Tech Vietnamese Lowercase.svg" alt=""><figcaption></figcaption></figure>
 
 </details>
 
+<details>
+
+<summary>Diacritics — UPPERcase, single layer</summary>
+
+_This was going to be a showcase, but in creating this portfolio, it's allowed me to discover all the unfinished aspects of each of my projects. Now it is instead a catalogue, a) to showcase my work, and b) as a project tracker to take control of my project management._
+
+### Vowels
+
+<figure><img src="../../.gitbook/assets/Alphabet Leaf Tech Diacritics Vowels Uppercase.svg" alt=""><figcaption></figcaption></figure>
+
+### Consonants
 
 
-### Diacritics
 
-* Vector image of all glyphs with respective diacritics
+</details>
+
+<details>
+
+<summary>Diacritics — LOWERcase, single layer</summary>
+
+_This was going to be a showcase, but in creating this portfolio, it's allowed me to discover all the unfinished aspects of each of my projects. Now it is instead a catalogue, a) to showcase my work, and b) as a project tracker to take control of my project management._
+
+### Vowels
+
+<figure><img src="../../.gitbook/assets/Alphabet Leaf Tech Diacritics Vowels Lowercase.svg" alt=""><figcaption></figcaption></figure>
+
+### Consonants
+
+
+
+</details>
+
+<details>
+
+<summary>Diacritics — UPPERcase, double layer</summary>
+
+"Double layer" means that some languages combine two diacritics onto the same letter. This poses some challenges in font design: diacritic shape, diacritic size, diacritic positioning, combined positioning; letter kerning alterations; line-height.&#x20;
+
+### Vowels
+
+<figure><img src="../../.gitbook/assets/Alphabet Leaf Tech Diacritics Vowels Stacked Uppercase.svg" alt=""><figcaption></figcaption></figure>
+
+### Consonants
+
+In NewEng, double-layer diacritiqued consonants include: S̈̌  Ç̌  Ẍ̌ &#x20;
+
+</details>
+
+<details>
+
+<summary>Diacritics — LOWERcase, double layer</summary>
+
+"Double layer" means that some languages combine two diacritics onto the same letter. This poses some challenges in font design: diacritic shape, diacritic size, diacritic positioning, combined positioning; letter kerning alterations; line-height.&#x20;
+
+### Vowels
+
+<figure><img src="../../.gitbook/assets/Alphabet Leaf Tech Diacritics Vowels Stacked Lowercase.svg" alt=""><figcaption></figcaption></figure>
+
+### Consonants
+
+In NewEng, double-layer diacritiqued consonants include: s̈̌  ç̌  ẍ̌ &#x20;
+
+</details>
 
 
 
