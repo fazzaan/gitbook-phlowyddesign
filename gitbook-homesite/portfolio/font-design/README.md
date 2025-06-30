@@ -19,7 +19,7 @@ Visit [scripts-and-alphabets.md](../scripts-and-alphabets.md "mention") to learn
 
 ## Fiverr is an Israeli company, and the profits they make from our business-making on their website are therefore supporting the continued existence of their genocidal, apartheid colonial state.
 
-## If you prefer to not support entities such as this, please email me and we can take our business out of their platform.
+## If you prefer to not support entities such as this, please [email me](mailto:fuzzle6+gitbook@gmail.com) and we can take our business out of their platform.
 
 ### As always, it should be noted that I bear no ill-will towards Jews, and that the problem here is solely regarding colonialism, Zionism, apartheid, discriminatory murder and attempted genocide / territorial eviction.
 
