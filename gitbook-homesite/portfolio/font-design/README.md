@@ -19,11 +19,15 @@ Visit [scripts-and-alphabets.md](../scripts-and-alphabets.md "mention") to learn
 
 ## Fiverr is an Israeli company, and the profits they make from our business-making on their website are therefore supporting the continued existence of their genocidal, apartheid colonial state.
 
+## As part of the BDS initiative, I would like to not do business that supports their economy.
+
 ## If you prefer to not support entities such as this, please [email me](mailto:fuzzle6+gitbook@gmail.com) and we can take our business out of their platform.
 
 ### As always, it should be noted that I bear no ill-will towards Jews, and that the problem here is solely regarding colonialism, Zionism, apartheid, discriminatory murder and attempted genocide / territorial eviction.
 
 I would prefer to not use Fiverr at all, but had my first clients on there before realising that it is an Israeli company. Now I have some reviews and a portfolio of projects, so it is my only lead generating platform.
+
+You may be waiting for the ICJ to declare that they are committing a genocide. **I prefer to recognise that they are attempting a genocide and to prevent it before it reaches the definition requirements.**
 {% endhint %}
 
 _For more info, and to see its development, click each font to visit its dedicated page._
