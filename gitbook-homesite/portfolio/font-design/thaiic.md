@@ -1,6 +1,6 @@
 ---
 cover: ../../.gitbook/assets/Thaiic Font Cover landscape.svg
-coverY: 0
+coverY: -89.6984252105111
 ---
 
 # 🇹🇭 Thaiic
