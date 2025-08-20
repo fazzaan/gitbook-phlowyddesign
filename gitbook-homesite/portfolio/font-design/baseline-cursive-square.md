@@ -1,9 +1,10 @@
 ---
-hidden: true
-noIndex: true
+icon: monero
+cover: ../../.gitbook/assets/image (1).png
+coverY: 5.744301727468082
 ---
 
-# 💠 Baseline Cursive Square
+# Baseline Cursive Square
 
 This font isn't yet available online. This page is a placeholder. I'll upload it soon!
 
