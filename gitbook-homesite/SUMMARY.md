@@ -14,6 +14,7 @@
   * [Baseline Cursive Square](portfolio/font-design/baseline-cursive-square.md)
   * [Abjoid Latinate One](portfolio/font-design/abjoid-latinate-one.md)
   * [Abjoid Blocky One](portfolio/font-design/abjoid-blocky-one.md)
+  * [🐲 Dragonia 🔒](portfolio/font-design/dragonia.md)
   * [➗ Dots N Lines](portfolio/font-design/dots-n-lines.md)
   * [🚂 BlockTrain 🔒](portfolio/font-design/blocktrain.md)
   * [TallThin](portfolio/font-design/tallthin.md)
