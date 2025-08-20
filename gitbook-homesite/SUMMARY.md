@@ -11,6 +11,8 @@
   * [Text, Logo, Imagery](portfolio/graphic-design/text-and-logo-edits/README.md)
     * [Triskelagua case study](portfolio/graphic-design/text-and-logo-edits/triskelagua-case-study.md)
 * [🅰️ Font Design](portfolio/font-design/README.md)
+  * [💠 Baseline Cursive Square](portfolio/font-design/baseline-cursive-square.md)
+  * [Abjoid Latinate One](portfolio/font-design/abjoid-latinate-one.md)
   * [Abjoid Blocky One](portfolio/font-design/abjoid-blocky-one.md)
   * [➗ Dots N Lines](portfolio/font-design/dots-n-lines.md)
   * [🚂 BlockTrain 🔒](portfolio/font-design/blocktrain.md)

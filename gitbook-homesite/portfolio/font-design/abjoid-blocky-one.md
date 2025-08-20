@@ -15,13 +15,14 @@ You can learn about my conscript _Abjoid_ on my conscripts gitbook website:  <a 
 
 ## Info table
 
-<table><thead><tr><th width="162" valign="top">Name</th><th width="440">Abjoid Blocky One</th></tr></thead><tbody><tr><td valign="top">Version</td><td>1.11</td></tr><tr><td valign="top">Availability</td><td>Free, GitHub</td></tr><tr><td valign="top">Latest release</td><td>3 August 2025</td></tr><tr><td valign="top">Inception</td><td>23 July 2025</td></tr><tr><td valign="top">Supported scripts</td><td><p>Abjoid conscript</p><p>Indirectly: Latin, <a href="https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/nQuhfcBU5w4vA1rwurTv/">NewEng</a> </p><p><em>This is a script itself.</em> </p></td></tr><tr><td valign="top">Other glyphs</td><td><p>Abjoid conscript glyphs are based in the <a data-footnote-ref href="#user-content-fn-1">PUA</a> of Unicode. You need a <a href="https://github.com/fazzaan/keyboard-layouts/tree/main/Layout%20-%20EN-UK%20-%20AbjAng%20(Abjoid)">custom keyboard layout</a> to type it.</p><p>However, I have also mapped Latin letters to approximately equivalent Abjoid glyphs, so you can type in it with your regular keyboard albeit incorrectly. </p></td></tr><tr><td valign="top">Issues</td><td></td></tr><tr><td valign="top">GitHub</td><td><p>Link to the github page to download.</p><p><a href="https://github.com/fazzaan/font-abjad-blocky-one">https://github.com/fazzaan/font-abjad-blocky-one</a> </p></td></tr><tr><td valign="top">Behance</td><td>-</td></tr><tr><td valign="top">Font sites</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="162" valign="top">Name</th><th width="440">Abjoid Blocky One</th></tr></thead><tbody><tr><td valign="top">Version</td><td><code>1.11</code></td></tr><tr><td valign="top">Availability</td><td>Free, <a href="https://github.com/fazzaan/font-abjad-blocky-one">GitHub</a> </td></tr><tr><td valign="top">Latest release</td><td>3 August 2025</td></tr><tr><td valign="top">Inception</td><td>23 July 2025</td></tr><tr><td valign="top">Supported scripts</td><td><p>Abjoid conscript</p><p>Indirectly: Latin, <a href="https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/nQuhfcBU5w4vA1rwurTv/">NewEng</a> </p><p><em>This is a script itself.</em> </p></td></tr><tr><td valign="top">Other glyphs</td><td><p>Abjoid conscript glyphs are based in the <a data-footnote-ref href="#user-content-fn-1">PUA</a> of Unicode. You need a <a href="https://github.com/fazzaan/keyboard-layouts/tree/main/Layout%20-%20EN-UK%20-%20AbjAng%20(Abjoid)">custom keyboard layout</a> to type it.</p><p>However, I have also mapped Latin letters to approximately equivalent Abjoid glyphs, so you can type in it with your regular keyboard albeit incorrectly. </p></td></tr><tr><td valign="top">Issues</td><td></td></tr><tr><td valign="top">GitHub</td><td><p>Link to the github page to download.</p><p><a href="https://github.com/fazzaan/font-abjad-blocky-one">https://github.com/fazzaan/font-abjad-blocky-one</a> </p></td></tr><tr><td valign="top">Behance</td><td>-</td></tr><tr><td valign="top">Font sites</td><td>-</td></tr></tbody></table>
 
 
 
 ## Letters
 
 * Abjoid conscript letters: five base consonants, consonant diacritic modifiers to construct a broad array of phonetic sounds.
+* Vowels are based on a vowel system attuned to my personal vowel model hypotheses.
 * Indirectly supports Latin alphabet and NewEng script orthography with equivalent abjoid letters.
 * Can probably support a range of other scripts, but is not tailored for them.
 * Can be used to type English, but it's only functional as a cypher, because the Abjoid glyphs represent mouth positions and relative phonemes, whereas Latinate glyphs in English represent a complex (and oft broken) array of sounds and phonetic mutations.
@@ -50,8 +51,10 @@ You can learn about my conscript _Abjoid_ on my conscripts gitbook website:  <a 
 ## Resources for using Abjoid
 
 * [Keyboard layout](https://github.com/fazzaan/keyboard-layouts/tree/main/Layout%20-%20EN-UK%20-%20AbjAng%20\(Abjoid\)) (Windows only, for now)
-* Abjoid keyboard layout map
-* Abjoid conscript usage guide (converting IPA to Abjoid, and how to type Abjoid)
+* [Abjoid keyboard layout map](https://www.figma.com/design/t26r6bYPmL9WDgnkc4fXG0/Keyboard-Layout---Abjoid-AbjAng-M1v6?node-id=0-1\&p=f\&t=rDm1IfPKmrmFfOEH-11)&#x20;
+* [Abjoid conscript usage guide](https://www.figma.com/design/iXFpBlWzIrsZbQ7ACTvVII/Abjoid-Script-Info-Sheet?node-id=0-1\&p=f\&t=Be2Jm5vVkjisindl-11) (how to convert IPA to Abjoid, and how to type Abjoid)&#x20;
+* Font: Abjoid Blocky One (this page)&#x20;
+* Font: [abjoid-latinate-one.md](abjoid-latinate-one.md "mention")&#x20;
 
 ***
 
