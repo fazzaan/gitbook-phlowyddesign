@@ -12,6 +12,10 @@ I also design alphabetic scripts and numerals that are entirely non-standard.&#x
 Visit [scripts-and-alphabets.md](../scripts-and-alphabets.md "mention") to learn more.
 {% endhint %}
 
+<details>
+
+<summary><mark style="color:red;">HELLO FIVERR VISITORS</mark></summary>
+
 {% hint style="danger" %}
 ### HELLO FIVERR VISITORS!!! <a href="#hello-fiverr-visitors" id="hello-fiverr-visitors"></a>
 
@@ -29,6 +33,8 @@ I would prefer to not use Fiverr at all, but had my first clients on there befor
 
 You may be waiting for the ICJ to declare that they are committing a genocide. **I prefer to recognise that they are attempting a genocide and to prevent it before it reaches the definition requirements.**
 {% endhint %}
+
+</details>
 
 _For more info, and to see its development, click each font to visit its dedicated page._
 
