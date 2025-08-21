@@ -1,7 +1,7 @@
 ---
 icon: monero
-cover: ../../.gitbook/assets/image (1).png
-coverY: 5.744301727468082
+cover: ../../.gitbook/assets/Baseline Cursive Square - alphabet strings.png
+coverY: 0
 ---
 
 # Baseline Cursive Square
@@ -10,11 +10,11 @@ This font isn't yet available online. This page is a placeholder. I'll upload it
 
 Here is a screenshot of the font in fontlab and in text:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Baseline Cursive Square - fontlab glyph grid.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Baseline Cursive Square - alphabet strings.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Baseline Cursive Square - large sample text.png" alt=""><figcaption></figcaption></figure>
 
 ## Info table
 
