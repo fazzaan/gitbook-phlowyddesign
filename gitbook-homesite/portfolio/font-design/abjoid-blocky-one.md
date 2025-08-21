@@ -1,8 +1,7 @@
 ---
 icon: chart-simple
-cover: >-
-  https://private-user-images.githubusercontent.com/186677588/473802673-4007f161-8ebd-4250-98f9-4902ec2f0fe0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU2NjU2MTEsIm5iZiI6MTc1NTY2NTMxMSwicGF0aCI6Ii8xODY2Nzc1ODgvNDczODAyNjczLTQwMDdmMTYxLThlYmQtNDI1MC05OGY5LTQ5MDJlYzJmMGZlMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyMFQwNDQ4MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMDBkNjlkMDIwNWZhOTczYzYxMDAxM2E1NDdlZmQ2MDljN2UwMTYwZDk2MGYwZmVlOGI0YzU4ZDBjNjUyNjc5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Fac7imvZ7joeW0gU4ll7WztJTICYbiFKvgOslQ8cniA
-coverY: 16.629959514170043
+cover: ../../.gitbook/assets/Abjad Blocky One shrek quote.png
+coverY: 0
 ---
 
 # Abjoid Blocky One
@@ -11,7 +10,7 @@ This is a proof-of-concept font, just to model a script that I created. It can b
 
 You can learn about my conscript _Abjoid_ on my conscripts gitbook website:  <a href="https://lang.gitbook.io/conlangs/creations/abjoid-conscript" class="button primary">Abjoid conscript</a>&#x20;
 
-<figure><img src="https://private-user-images.githubusercontent.com/186677588/473802673-4007f161-8ebd-4250-98f9-4902ec2f0fe0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU2NjU2MTEsIm5iZiI6MTc1NTY2NTMxMSwicGF0aCI6Ii8xODY2Nzc1ODgvNDczODAyNjczLTQwMDdmMTYxLThlYmQtNDI1MC05OGY5LTQ5MDJlYzJmMGZlMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyMFQwNDQ4MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMDBkNjlkMDIwNWZhOTczYzYxMDAxM2E1NDdlZmQ2MDljN2UwMTYwZDk2MGYwZmVlOGI0YzU4ZDBjNjUyNjc5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Fac7imvZ7joeW0gU4ll7WztJTICYbiFKvgOslQ8cniA" alt=""><figcaption><p align="center"><em>This is a famous movie quote. Can you read it?</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Abjad Blocky One shrek quote.png" alt=""><figcaption><p align="center"><em>This is a famous movie quote. Can you read it?</em></p></figcaption></figure>
 
 ## Info table
 

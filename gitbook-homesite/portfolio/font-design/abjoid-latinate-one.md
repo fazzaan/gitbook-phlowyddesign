@@ -1,8 +1,7 @@
 ---
 icon: pixiv
-cover: >-
-  https://private-user-images.githubusercontent.com/186677588/476256910-b284f4f1-aea7-4166-bcbc-ec50da381378.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU2NjgzMjYsIm5iZiI6MTc1NTY2ODAyNiwicGF0aCI6Ii8xODY2Nzc1ODgvNDc2MjU2OTEwLWIyODRmNGYxLWFlYTctNDE2Ni1iY2JjLWVjNTBkYTM4MTM3OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyMFQwNTMzNDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNDU2NzI2MWI3MTg4OTE4ZjBjZDAxZGU4MWY0NGU3ZjgyZWZlNGNmZDM2MmI5NGQxYWJmMWU0ZjUyZTZmMzBhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TULMxrqZD08QHfHR6Rh-6jk9QskTmRm1Gxh0njRcvPg
-coverY: 20.490594431903688
+cover: ../../.gitbook/assets/Abjoid Latinate One shrek quote.png
+coverY: 24.945071482317534
 ---
 
 # Abjoid Latinate One
@@ -17,7 +16,7 @@ For Abjoid Latinate conscript, the five base phone letters are mapped as such:
 
 You can learn about my conscript _Abjoid_ on my conscripts gitbook website:  <a href="https://lang.gitbook.io/conlangs/creations/abjoid-conscript" class="button primary">Abjoid conscript</a>&#x20;
 
-<figure><img src="https://private-user-images.githubusercontent.com/186677588/476256910-b284f4f1-aea7-4166-bcbc-ec50da381378.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU2NjgzMjYsIm5iZiI6MTc1NTY2ODAyNiwicGF0aCI6Ii8xODY2Nzc1ODgvNDc2MjU2OTEwLWIyODRmNGYxLWFlYTctNDE2Ni1iY2JjLWVjNTBkYTM4MTM3OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyMFQwNTMzNDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNDU2NzI2MWI3MTg4OTE4ZjBjZDAxZGU4MWY0NGU3ZjgyZWZlNGNmZDM2MmI5NGQxYWJmMWU0ZjUyZTZmMzBhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TULMxrqZD08QHfHR6Rh-6jk9QskTmRm1Gxh0njRcvPg" alt=""><figcaption><p><em>This is a famous movie quote. Can you read it?</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Abjoid Latinate One shrek quote.png" alt=""><figcaption><p><em>This is a famous movie quote. Can you read it?</em></p></figcaption></figure>
 
 ## Info table
 
