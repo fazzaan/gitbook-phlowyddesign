@@ -6,7 +6,7 @@ coverY: 275.06094808126414
 
 # Abjoid Blocky One
 
-This is a proof-of-concept font, just to model a script that I created. It can be used to type with, but it isn't beautiful and it isn't perfected. It is literally just a model font file to contain the basic glyph shapes and their relationships, via shared glyph elements, anchorings, etc.
+This is a proof-of-concept font, just to model a script that I created. It can be used to type with, but it isn't beautiful and it isn't perfected. It is literally just a model font file to contain the basic glyph shapes and their relationships, via shared glyph elements, anchorings, etc. This font is blocky and angular, just to contain the structure; the conscript is designed so that it can be written in a cursive flow, much like Arabic. I'll upload some images of my handwriting in it some time soon.
 
 You can learn about my conscript _Abjoid_ on my conscripts gitbook website:  <a href="https://lang.gitbook.io/conlangs/creations/abjoid-conscript" class="button primary">Abjoid conscript</a>&#x20;
 

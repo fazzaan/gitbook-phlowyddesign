@@ -1,7 +1,7 @@
 ---
 icon: pixiv
-cover: ../../.gitbook/assets/Abjoid Latinate One shrek quote.png
-coverY: 24.945071482317534
+cover: ../../.gitbook/assets/Abjoid Latinate One - Font Cover landscape.svg
+coverY: 47.30775018811136
 ---
 
 # Abjoid Latinate One
@@ -11,6 +11,8 @@ _This is a proof-of-concept font, just to model a script that I created. It can 
 This script is a hybrid script that uses the script construction of Abjoid and the Latinate letter shapes for the five base consonants. Its fundament is identical to Abjoid, but the appearance is so dramatically different that it is almost another script in itself.
 
 You can learn about my conscript _Abjoid_ on my conscripts gitbook website:  <a href="https://lang.gitbook.io/conlangs/creations/abjoid-conscript" class="button primary">Abjoid conscript</a>&#x20;
+
+<figure><img src="../../.gitbook/assets/Abjoid Latinate One - Font Cover landscape.svg" alt=""><figcaption><p><em>Sample text: Latin alphabet approximations; all consonant diacritics; all English vowels.</em></p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Abjoid Latinate One shrek quote.png" alt=""><figcaption><p><em>This is a famous movie quote. Can you read it?</em></p></figcaption></figure>
 
@@ -36,7 +38,7 @@ For Abjoid Latinate conscript, the five base phone letters are mapped as such:
 
 The diacritic modifiers follow the basic shapes of the modifiers in the Abjoid foundation conscript, but have been drawn in such a way as to be writable within one pen stroke with the letter if possible, and to provide a visually distinctive shape so that the reader can discern the letter and word more quickly:
 
-<table><thead><tr><th width="192">Quality</th><th width="216">Diacritic</th><th width="241">Abjoid foundation diacritic</th></tr></thead><tbody><tr><td><em>Unaspirated, unvoiced</em></td><td>None</td><td>None</td></tr><tr><td><em>Aspirated</em></td><td>Line above, joined</td><td>Dot above</td></tr><tr><td><em>Voiced</em></td><td>Loop below, joined</td><td>Dot below</td></tr><tr><td><em>Aspirated &#x26; voiced</em></td><td>Loops above and below, joined</td><td>Dots above and below</td></tr><tr><td><em>Fricative, unvoiced</em></td><td>Circumflex above, joined</td><td>Circumflex above</td></tr><tr><td><em>Fricative, voiced</em></td><td>Caron below, joined</td><td>Caron below</td></tr><tr><td><em>Nasal</em></td><td>Ring above, joined</td><td>Ring above</td></tr><tr><td><em>Breath</em></td><td>Ring below, joined</td><td>Ring below</td></tr><tr><td><em>Glide</em></td><td>Dome above</td><td>Three dots above</td></tr><tr><td><em>Breathed glide</em></td><td>Dome above, ring below</td><td>Three dots above, ring below</td></tr><tr><td><em>Silenced letter</em></td><td>Grave above</td><td>Grave above</td></tr></tbody></table>
+<table><thead><tr><th width="192">Quality</th><th width="216">Diacritic</th><th width="92"></th><th width="241">Abjoid foundation diacritic</th></tr></thead><tbody><tr><td><em>Unaspirated, unvoiced</em></td><td>None</td><td></td><td>None</td></tr><tr><td><em>Aspirated</em></td><td>Line above, joined</td><td></td><td>Dot above</td></tr><tr><td><em>Voiced</em></td><td>Loop below, joined</td><td></td><td>Dot below</td></tr><tr><td><em>Aspirated &#x26; voiced</em></td><td>Loops above and below, joined</td><td></td><td>Dots above and below</td></tr><tr><td><em>Fricative, unvoiced</em></td><td>Circumflex above, joined</td><td></td><td>Circumflex above</td></tr><tr><td><em>Fricative, voiced</em></td><td>Caron below, joined</td><td></td><td>Caron below</td></tr><tr><td><em>Nasal</em></td><td>Ring above, joined</td><td></td><td>Ring above</td></tr><tr><td><em>Breath</em></td><td>Ring below, joined</td><td></td><td>Ring below</td></tr><tr><td><em>Glide</em></td><td>Dome above</td><td></td><td>Three dots above</td></tr><tr><td><em>Breathed glide</em></td><td>Dome above, ring below</td><td></td><td>Three dots above, ring below</td></tr><tr><td><em>Silenced letter</em></td><td>Grave above</td><td></td><td>Grave above</td></tr></tbody></table>
 
 ### English Alphabet glyphs
 
