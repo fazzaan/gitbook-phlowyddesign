@@ -1,7 +1,7 @@
 ---
 icon: chart-simple
-cover: ../../.gitbook/assets/Abjad Blocky One shrek quote.png
-coverY: 0
+cover: ../../.gitbook/assets/Abjoid Blocky One - Font Cover landscape.svg
+coverY: 275.06094808126414
 ---
 
 # Abjoid Blocky One
@@ -10,7 +10,29 @@ This is a proof-of-concept font, just to model a script that I created. It can b
 
 You can learn about my conscript _Abjoid_ on my conscripts gitbook website:  <a href="https://lang.gitbook.io/conlangs/creations/abjoid-conscript" class="button primary">Abjoid conscript</a>&#x20;
 
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/Abjoid Blocky One - Font Cover landscape.svg" alt=""><figcaption><p><em>Sample text: Latin alphabet approximations; all consonant diacritics; all English vowels.</em></p></figcaption></figure></div>
+
 <figure><img src="../../.gitbook/assets/Abjad Blocky One shrek quote.png" alt=""><figcaption><p align="center"><em>This is a famous movie quote. Can you read it?</em></p></figcaption></figure>
+
+## About Abjoid Latinate conscript
+
+* Letters: five base consonants, consonant diacritic modifiers to construct many phonetic sounds.
+* Vowels are based on a vowel system attuned to [my personal vowel model hypotheses](https://lang.gitbook.io/en/pronunciation-mastery/sound-system/vowel-series/vowel-model-v3).
+* Indirectly supports Latin alphabet and NewEng script orthography with equivalent abjoid letters.
+* Can probably support a range of other scripts, but is not tailored for them.
+* Can be used to type English, but it's only functional as a cypher, because the Abjoid glyphs represent mouth positions and relative phonemes, whereas Latinate glyphs in English represent a complex (and oft broken) array of sounds and phonetic mutations.
+
+### Letters
+
+For Abjoid Latinate conscript, the five base phone letters are mapped as such:
+
+<table><thead><tr><th width="199">Position</th><th width="140">Abjoid glyph</th></tr></thead><tbody><tr><td><em>lip</em></td><td><img src="../../.gitbook/assets/Abjoid Foundation - Lip base.svg" alt="" data-size="line"></td></tr><tr><td><em>behind upper teeth</em></td><td><img src="../../.gitbook/assets/Abjoid Foundation - Upper teeth base.svg" alt="" data-size="line"></td></tr><tr><td><em>behind lower teeth</em></td><td><img src="../../.gitbook/assets/Abjoid Foundation - Lower teeth base.svg" alt="" data-size="line"></td></tr><tr><td><em>palate</em></td><td><img src="../../.gitbook/assets/Abjoid Foundation - Palate base.svg" alt="" data-size="line"></td></tr><tr><td><em>velum</em></td><td><img src="../../.gitbook/assets/Abjoid Foundation - Velum base.svg" alt="" data-size="line"></td></tr></tbody></table>
+
+### Diacritics
+
+The diacritic modifiers follow the basic shapes of the modifiers in the Abjoid foundation conscript, but have been drawn in such a way as to be writable within one pen stroke with the letter if possible, and to provide a visually distinctive shape so that the reader can discern the letter and word more quickly:
+
+<table><thead><tr><th width="192">Quality</th><th width="111">Diacritic glyph</th><th width="241">Description</th></tr></thead><tbody><tr><td><em>Unaspirated, unvoiced</em></td><td><img src="../../.gitbook/assets/Abjoid Foundation - Lip base.svg" alt="" data-size="line"></td><td>None</td></tr><tr><td><em>Aspirated</em></td><td><img src="../../.gitbook/assets/Abjoid Foundation - Dia Lip overdot.svg" alt="" data-size="line"></td><td>Dot above</td></tr><tr><td><em>Voiced</em></td><td><img src="../../.gitbook/assets/Abjoid Foundation - Dia Lip underdot.svg" alt="" data-size="line"></td><td>Dot below</td></tr><tr><td><em>Aspirated &#x26; voiced</em></td><td><img src="../../.gitbook/assets/Abjoid Foundation - Dia Lip overdot underdot.svg" alt="" data-size="line"></td><td>Dots above and below</td></tr><tr><td><em>Fricative, unvoiced</em></td><td><img src="../../.gitbook/assets/Abjoid Foundation - Dia Lip circumflex above.svg" alt="" data-size="line"></td><td>Circumflex above</td></tr><tr><td><em>Fricative, voiced</em></td><td><img src="../../.gitbook/assets/Abjoid Foundation - Dia Lip caron below.svg" alt="" data-size="line"></td><td>Caron below</td></tr><tr><td><em>Nasal</em></td><td><img src="../../.gitbook/assets/Abjoid Foundation - Dia Lip ring above.svg" alt="" data-size="line"></td><td>Ring above</td></tr><tr><td><em>Breath</em></td><td><img src="../../.gitbook/assets/Abjoid Foundation - Dia Lip ring below.svg" alt="" data-size="line"></td><td>Ring below</td></tr><tr><td><em>Glide</em></td><td><img src="../../.gitbook/assets/Abjoid Foundation - Dia Lip 3 dots above.svg" alt="" data-size="line"></td><td>Three dots above</td></tr><tr><td><em>Breathed glide</em></td><td><img src="../../.gitbook/assets/Abjoid Foundation - Dia Lip 3 dots above ring below.svg" alt="" data-size="line"></td><td>Three dots above, ring below</td></tr><tr><td><em>Silenced letter</em></td><td><img src="../../.gitbook/assets/Abjoid Foundation - Dia Lip grave above.svg" alt="" data-size="line"></td><td>Grave above</td></tr></tbody></table>
 
 ## Info table
 
