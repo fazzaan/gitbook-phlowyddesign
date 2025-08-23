@@ -1,7 +1,7 @@
 ---
 icon: pixiv
 cover: ../../.gitbook/assets/Abjoid Latinate One - Font Cover landscape.svg
-coverY: 47.30775018811136
+coverY: 5.936794582392778
 ---
 
 # Abjoid Latinate One
