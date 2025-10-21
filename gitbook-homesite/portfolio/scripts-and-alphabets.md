@@ -64,17 +64,17 @@ Click below to view the dedicated page for Abjoid, on my linguistics gitbook web
 
 {% columns %}
 {% column %}
-<p align="center"><em>Font</em></p>
 {% content-ref url="https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-blocky-one" %}
 [https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-blocky-one](https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-blocky-one)
 {% endcontent-ref %}
+<p align="center"><em>Font</em></p>
 {% endcolumn %}
 
 {% column %}
-<p align="center"><em>Info and how to read &#x26; write it</em></p>
-{% content-ref url="https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/abjoid-latinate" %}
-[https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/abjoid-latinate](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/abjoid-latinate)
+{% content-ref url="https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang" %}
+[https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang)
 {% endcontent-ref %}
+<p align="center"><em>Info and how to read &#x26; write it</em></p>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -86,17 +86,17 @@ At present, both the _Abjoid_ and _Abjoid Latinate_ conscript fonts mainly exist
 
 {% columns %}
 {% column %}
-<p align="center"><em>Font</em></p>
 {% content-ref url="https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-latinate-one" %}
 [https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-latinate-one](https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-latinate-one)
 {% endcontent-ref %}
+<p align="center"><em>Font</em></p>
 {% endcolumn %}
 
 {% column %}
-<p align="center"><em>Info and how to read &#x26; write it</em></p>
 {% content-ref url="https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/abjoid-latinate" %}
 [https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/abjoid-latinate](https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/abjoid-latinate)
 {% endcontent-ref %}
+<p align="center"><em>Info and how to read &#x26; write it</em></p>
 {% endcolumn %}
 {% endcolumns %}
 
