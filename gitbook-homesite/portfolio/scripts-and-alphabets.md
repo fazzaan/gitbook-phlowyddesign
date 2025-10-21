@@ -68,6 +68,10 @@ Click below to view the dedicated page for Abjoid, on my linguistics gitbook web
 
 {% embed url="https://lang.gitbook.io/conlangs/creations/abjoid-conscript" %}
 
+{% content-ref url="https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/" %}
+[https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/)
+{% endcontent-ref %}
+
 
 
 I have also made a Latin-letter-based variant of the Abjoid script, which is visually so completely different that it practically constitutes a different script — although, the fundament is identical, the glyphs represent the same things, and the way to type is the same.&#x20;
