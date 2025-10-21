@@ -78,6 +78,14 @@ Click below to view the dedicated page for Abjoid, on my linguistics gitbook web
 {% endcolumn %}
 {% endcolumns %}
 
+### AbjAng Orthography
+
+As with all writing systems, a script still needs an orthography. An orthography is essentially the way that the script is used to represent the concepts within the language, typically sounds but sometimes ideas too. The AbjAng Orthography is based upon my own NewEng Orthography, because that is a lossless orthography for English which retains both spelling patterns and etymological roots, and is non-ambiguous in reading (one sound may be represented by several letters, but one letter always only represents one sound).
+
+{% content-ref url="https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography" %}
+[https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography)
+{% endcontent-ref %}
+
 ### Abjoid Latinate
 
 I have also made a Latin-letter-based variant of the Abjoid script, which is visually so completely different that it practically constitutes a different script — although, the fundament is identical, the glyphs represent the same things, and the way to type is the same. (A direct analogy for understanding this is considering the various languages which have multiple scripts with one-to-one spelling parity.)
@@ -99,14 +107,6 @@ At present, both the _Abjoid_ and _Abjoid Latinate_ conscript fonts mainly exist
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
-
-### AbjAng Orthography
-
-As with all writing systems, a script still needs an orthography. An orthography is essentially the way that the script is used to represent the concepts within the language, typically sounds but sometimes ideas too. The AbjAng Orthography is based upon my own NewEng Orthography, because that is a lossless orthography for English which retains both spelling patterns and etymological roots, and is non-ambiguous in reading (one sound may be represented by several letters, but one letter always only represents one sound).
-
-{% content-ref url="https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography" %}
-[https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography)
-{% endcontent-ref %}
 
 &#x20;
 
