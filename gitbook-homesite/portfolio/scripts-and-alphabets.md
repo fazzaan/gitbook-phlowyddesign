@@ -64,14 +64,16 @@ Click below to view the dedicated page for Abjoid, on my linguistics gitbook web
 
 {% columns %}
 {% column %}
-{% content-ref url="https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript" %}
-[https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript](https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript)
+Font
+{% content-ref url="https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-blocky-one" %}
+[https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-blocky-one](https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-blocky-one)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript" %}
-[https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript](https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript)
+Info and how to read & write it
+{% content-ref url="https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang" %}
+[https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang](https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
@@ -84,14 +86,16 @@ At present, both the _Abjoid_ and _Abjoid Latinate_ conscript fonts mainly exist
 
 {% columns %}
 {% column %}
-{% content-ref url="https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript" %}
-[https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript](https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript)
+Font
+{% content-ref url="https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-latinate-one" %}
+[https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-latinate-one](https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-latinate-one)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript" %}
-[https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript](https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript)
+Info and how to read & write it
+{% content-ref url="https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/abjoid-latinate" %}
+[https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/abjoid-latinate](https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/abjoid-latinate)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
@@ -100,8 +104,8 @@ At present, both the _Abjoid_ and _Abjoid Latinate_ conscript fonts mainly exist
 
 As with all writing systems, a script still needs an orthography. An orthography is essentially the way that the script is used to represent the concepts within the language, typically sounds but sometimes ideas too. The AbjAng Orthography is based upon my own NewEng Orthography, because that is a lossless orthography for English which retains both spelling patterns and etymological roots, and is non-ambiguous in reading (one sound may be represented by several letters, but one letter always only represents one sound).
 
-{% content-ref url="https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript" %}
-[https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript](https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript)
+{% content-ref url="https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography" %}
+[https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography)
 {% endcontent-ref %}
 
 &#x20;
