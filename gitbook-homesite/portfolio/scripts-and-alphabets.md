@@ -40,11 +40,7 @@ You can learn more about NewEng on my dedicated website:
 * Oxford 3000 and Oxford 5000 word lists — spreadsheet and .dic (dictionary files for office apps)
 * alphabet poster — downloadable & printable
 
-&#x20;
-
 ***
-
-&#x20;
 
 ## Abjoid Conscript
 
@@ -63,15 +59,17 @@ The diacritics, marked above and/or below the base consonant, indicates the meth
 Click below to view the dedicated page for Abjoid, on my linguistics gitbook website:
 
 {% columns %}
-{% column %}
-Font
-{% content-ref url="https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-blocky-one" %}
-[https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-blocky-one](https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-blocky-one)
+{% column width="50%" %}
+<p align="center"><em>Font</em></p>
+
+{% content-ref url="font-design/abjoid-blocky-one.md" %}
+[abjoid-blocky-one.md](font-design/abjoid-blocky-one.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
-{% column %}
-Info and how to read & write it
+{% column width="50%" %}
+<p align="center"><em>Info and how to read &#x26; write it</em></p>
+
 {% content-ref url="https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang" %}
 [https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang](https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang)
 {% endcontent-ref %}
@@ -86,14 +84,16 @@ At present, both the _Abjoid_ and _Abjoid Latinate_ conscript fonts mainly exist
 
 {% columns %}
 {% column %}
-Font
-{% content-ref url="https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-latinate-one" %}
-[https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-latinate-one](https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-latinate-one)
+<p align="center"><em>Font</em></p>
+
+{% content-ref url="font-design/abjoid-latinate-one.md" %}
+[abjoid-latinate-one.md](font-design/abjoid-latinate-one.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
-Info and how to read & write it
+<p align="center"><em>Info and how to read &#x26; write it</em></p>
+
 {% content-ref url="https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/abjoid-latinate" %}
 [https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/abjoid-latinate](https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/abjoid-latinate)
 {% endcontent-ref %}
@@ -108,11 +108,7 @@ As with all writing systems, a script still needs an orthography. An orthography
 [https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography)
 {% endcontent-ref %}
 
-&#x20;
-
 ***
-
-&#x20;
 
 ## Dot-derived Numerals
 
