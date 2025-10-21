@@ -22,9 +22,9 @@ It copes with the entirety of modern English, preserving thrōth[^1] etymology 
 
 Here is the full 41-letter alphabet:
 
-<mark style="color:blue;">A Æ B C Ç D E F Φ Þ Đ G Ȝ H Ƕ I J K Ʞ L M N И Ŋ O Œ P Q R S Ʃ T Ч U Ȣ V W Ꝏ/Ѡ X Y Z</mark>
+<mark style="color:blue;">A Æ B C Ç D E F Φ Þ Đ G Ȝ H Ƕ I J K Ʞ L M N И Ŋ O Œ P Q R S Ʃ T Ч U Ȣ V W Ꝏ X Y Z</mark>
 
-<mark style="color:blue;">a æ b c ç d e f φ þ ð g ȝ h ƕ i j k ʞ l m n и ŋ o œ p q r s ʃ t ч u ȣ v w ꝏ/ѡ x y z</mark>
+<mark style="color:blue;">a æ b c ç d e f φ þ ð g ȝ h ƕ i j k ʞ l m n и ŋ o œ p q r s ʃ t ч u ȣ v w ꝏ x y z</mark>
 
 I may replace Latin Double-O with Cyrillic Omega **Ѡ ѡ** in the near future. It is rarely used in modern Cyrillic languages, but it gets much better treatment in modern fonts than Double-O, with decent diacritic anchoring in several major fonts.
 
@@ -42,7 +42,43 @@ You can learn more about NewEng on my dedicated website:
 * Oxford 3000 and Oxford 5000 word lists — spreadsheet and .dic (dictionary files for office apps)
 * alphabet poster — downloadable & printable&#x20;
 
+
+
 ***
+
+
+
+## Abjoid Conscript
+
+This conscript came to mind presumably inspired by the Arabic abjad script, but I have to say that I really wasn't thinking about Arabic at the time! It looks somewhat similar in shape and style and concept, and it came to me soon after I started attempting to study the abjad.
+
+Following in nomenclaturic tradition, I've named my conscript _Abjoid_, the -oid suffix for "similar in form".
+
+Abjoid is fairly simple to learn to read and write, but it can take a bit of time to get used to processing it while reading it. However, I've made an effort to visually distinguish the diacritics clearly, and the base consonants are obviously different from one another.
+
+Abjoid consists of 5 base consonants and a variety of diacritics, some of which can combine to form complex sounds. There are also several vowels (4 bases which can combine to form variations and diphthongs) and a rhoticisation marker (which is separate from the glyph for R as a real sound).
+
+The 5 base consonants represent 5 key positions in the mouth, which I have observed is a common amount of distinct mouth positions used in many languages.
+
+The diacritics, marked above and/or below the base consonant, indicates the method of pronouncing the sound. In this way, the resultant consonantal letter is an instructional glyph, providing both the mouth position and sound method for pronouncing it.
+
+
+
+Click below to view the dedicated page for Abjoid, on my linguistics gitbook website:
+
+{% embed url="https://lang.gitbook.io/conlangs/creations/abjoid-conscript" %}
+
+
+
+I have also made a Latin-letter-based variant of the Abjoid script, which is visually so completely different that it practically constitutes a different script — although, the fundament is identical, the glyphs represent the same things, and the way to type is the same.&#x20;
+
+At present, both the _Abjoid_ and _Abjoid Latinate_ conscript fonts mainly exist as proofs-of-concept, because — like all fun things — they came to me while I was super busy in the middle of doing another job for a client, so I had to smash them out quickly so as to record them well enough to not forget the ideas. When I have time soon, I'll experiment further with them, and if I still enjoy using them, I'll make some cleaner and more stylish fonts for both the Latinate form and Abjoid proper.
+
+
+
+***
+
+
 
 ## Dot-derived Numerals
 
