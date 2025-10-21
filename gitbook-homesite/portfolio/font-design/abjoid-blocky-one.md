@@ -6,7 +6,7 @@ coverY: 275.06094808126414
 
 # Abjoid Blocky One
 
-This is a proof-of-concept font, just to model a script that I created. It can be used to type with, but it isn't beautiful and it isn't perfected. It is literally just a model font file to contain the basic glyph shapes and their relationships, via shared glyph elements, anchorings, etc. This font is blocky and angular, just to contain the structure; the conscript is designed so that it can be written in a cursive flow, much like Arabic. I'll upload some images of my handwriting in it some time soon.
+This is a proof-of-concept font, just to model a script that I created. It can be used to type with, but it isn't beautiful and it isn't perfected. It is literally just a model font file to contain the basic glyph shapes and their relationships, via shared glyph elements, anchorings, etc. This font is blocky and angular, solely to contain the structure; the conscript is designed so that it can be written in a cursive flow, much like Arabic. I'll upload some images of my handwriting in it some time soon.
 
 You can learn about my conscript _Abjoid_ on my conscripts gitbook website:  <a href="https://lang.gitbook.io/conlangs/creations/abjoid-conscript" class="button primary">Abjoid conscript</a>&#x20;
 
@@ -14,12 +14,12 @@ You can learn about my conscript _Abjoid_ on my conscripts gitbook website:  <a 
 
 <figure><img src="../../.gitbook/assets/Abjad Blocky One shrek quote.png" alt=""><figcaption><p align="center"><em>This is a famous movie quote. Can you read it?</em></p></figcaption></figure>
 
-## About Abjoid Latinate conscript
+## About Abjoid conscript
 
 * Letters: five base consonants, consonant diacritic modifiers to construct many phonetic sounds.
 * Vowels are based on a vowel system attuned to [my personal vowel model hypotheses](https://lang.gitbook.io/en/pronunciation-mastery/sound-system/vowel-series/vowel-model-v3).
-* Indirectly supports Latin alphabet and NewEng script orthography with equivalent abjoid letters.
-* Can probably support a range of other scripts, but is not tailored for them.
+* Indirectly supports Latin alphabet and NewEng script orthography with equivalent Abjoid letters.
+* Can probably support a range of other scripts, but is not tailored for them as of yet.
 * Can be used to type English, but it's only functional as a cypher, because the Abjoid glyphs represent mouth positions and relative phonemes, whereas Latinate glyphs in English represent a complex (and oft broken) array of sounds and phonetic mutations.
 
 ### Letters
