@@ -68,8 +68,8 @@ Click below to view the dedicated page for Abjoid, on my linguistics gitbook web
 
 {% embed url="https://lang.gitbook.io/conlangs/creations/abjoid-conscript" %}
 
-{% content-ref url="https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/" %}
-[https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/)
+{% content-ref url="https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript" %}
+[https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript)
 {% endcontent-ref %}
 
 
