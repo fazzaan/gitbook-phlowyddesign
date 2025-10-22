@@ -1,17 +1,18 @@
 ---
+icon: map-location-dot
 cover:
   light: ../../.gitbook/assets/Yu the sheep in MapLetter 3.png
   dark: ../../.gitbook/assets/Yu the sheep in MapLetter 3 _Dark.png
 coverY: 0
 ---
 
-# 🗺️ MapLetter 🔒
+# MapLetter 🔒
 
 This font was made for a graphic designer client who makes maps for his clients — how cool is that?!
 
 His clients' maps are typically used in video games, table top games, and inside books — you know, the kind of fantasy books with an expansive land and the characters go all over the place and you're just _dying_ to see a map of their world and then suddenly you find a map at the back of the book!
 
-Visit the Instagram page of <a href="https://www.instagram.com/matthew.w.art/" class="button primary">Matthew W Bines, graphic cartographer</a>, he is open for commissions!
+Visit the Instagram page of [**Matthew W Bines, graphic cartographer**](https://www.instagram.com/matthew.w.art/), he is open for commissions!
 
 <figure><picture><source srcset="../../.gitbook/assets/Yu the sheep in MapLetter 3 _Dark.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Yu the sheep in MapLetter 3.png" alt=""></picture><figcaption></figcaption></figure>
 

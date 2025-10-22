@@ -1,9 +1,10 @@
 ---
+icon: divide
 cover: ../../.gitbook/assets/Dots N Lines Font Cover landscape.svg
 coverY: 0
 ---
 
-# ➗ Dots N Lines
+# Dots N Lines
 
 <figure><img src="../../.gitbook/assets/Dots N Lines Font Cover landscape.svg" alt=""><figcaption></figcaption></figure>
 
