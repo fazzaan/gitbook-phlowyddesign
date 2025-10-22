@@ -1,3 +1,10 @@
+---
+cover:
+  light: ../../.gitbook/assets/Yu the sheep in MapLetter 3.png
+  dark: ../../.gitbook/assets/Yu the sheep in MapLetter 3 _Dark.png
+coverY: 0
+---
+
 # 🗺️ MapLetter 🔒
 
 This font was made for a graphic designer client who makes maps for his clients — how cool is that?!
