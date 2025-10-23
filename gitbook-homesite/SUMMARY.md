@@ -1,13 +1,18 @@
 # Table of contents
 
 * [Phlowyd Design Homepage](README.md)
-* [Relationships](relationships.md)
+* [Clients & Relationships](clients-and-relationships.md)
 
 ## Portfolio
 
 * [Graphic design work](portfolio/graphic-design.md)
   * [Event marketing](portfolio/event-marketing.md)
-  * [Menus](portfolio/graphic-design/menus.md)
+  * [Menus](portfolio/graphic-design/menus/README.md)
+    * [BoBo Food](portfolio/graphic-design/menus/bobo-food/README.md)
+      * [New Grand Food & Pizza menu (2025)](portfolio/graphic-design/menus/bobo-food/new-grand-food-and-pizza-menu-2025.md)
+      * [New Greek Food menu (2025)](portfolio/graphic-design/menus/bobo-food/new-greek-food-menu-2025.md)
+      * [New Pizza Menu (2024)](portfolio/graphic-design/menus/bobo-food/new-pizza-menu-2024.md)
+      * [Greek Food Menu (2023)](portfolio/graphic-design/menus/bobo-food/greek-food-menu-2023.md)
   * [Text, Logo, Imagery](portfolio/graphic-design/text-and-logo-edits/README.md)
     * [Triskelagua case study](portfolio/graphic-design/text-and-logo-edits/triskelagua-case-study.md)
 * [🅰️ Font Design](portfolio/font-design/README.md)

@@ -40,11 +40,7 @@ You can learn more about NewEng on my dedicated website:
 * Oxford 3000 and Oxford 5000 word lists — spreadsheet and .dic (dictionary files for office apps)
 * alphabet poster — downloadable & printable
 
-&#x20;
-
 ***
-
-&#x20;
 
 ## Abjoid Conscript
 
@@ -65,15 +61,17 @@ Click below to view the dedicated page for Abjoid, on my linguistics gitbook web
 {% columns %}
 {% column %}
 <p align="center"><em>Font</em></p>
-{% content-ref url="https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-blocky-one" %}
-[https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-blocky-one](https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-blocky-one)
+
+{% content-ref url="font-design/abjoid-blocky-one.md" %}
+[abjoid-blocky-one.md](font-design/abjoid-blocky-one.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
 <p align="center"><em>Info and how to read &#x26; write it</em></p>
-{% content-ref url="https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang" %}
-[https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang)
+
+{% content-ref url="https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang" %}
+[https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang](https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
@@ -82,8 +80,8 @@ Click below to view the dedicated page for Abjoid, on my linguistics gitbook web
 
 As with all writing systems, a script still needs an orthography. An orthography is essentially the way that the script is used to represent the concepts within the language, typically sounds but sometimes ideas too. The AbjAng Orthography is based upon my own NewEng Orthography, because that is a lossless orthography for English which retains both spelling patterns and etymological roots, and is non-ambiguous in reading (one sound may be represented by several letters, but one letter always only represents one sound).
 
-{% content-ref url="https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography" %}
-[https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography)
+{% content-ref url="https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography" %}
+[https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography](https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/how-to-write-abjang-orthography)
 {% endcontent-ref %}
 
 ### Abjoid Latinate
@@ -95,24 +93,22 @@ At present, both the _Abjoid_ and _Abjoid Latinate_ conscript fonts mainly exist
 {% columns %}
 {% column %}
 <p align="center"><em>Font</em></p>
-{% content-ref url="https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-latinate-one" %}
-[https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-latinate-one](https://app.gitbook.com/o/FsbRrtZvs8z1yrTgwRrU/s/Jz3BfoxqzUCPONNAxkIl/portfolio/font-design/abjoid-latinate-one)
+
+{% content-ref url="font-design/abjoid-latinate-one.md" %}
+[abjoid-latinate-one.md](font-design/abjoid-latinate-one.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
 <p align="center"><em>Info and how to read &#x26; write it</em></p>
+
 {% content-ref url="https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/abjoid-latinate" %}
 [https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/abjoid-latinate](https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/creations/abjoid-conscript-and-abjang/abjoid-latinate)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
 
-&#x20;
-
 ***
-
-&#x20;
 
 ## Dot-derived Numerals
 
