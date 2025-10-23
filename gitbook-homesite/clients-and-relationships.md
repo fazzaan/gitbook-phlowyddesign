@@ -2,7 +2,7 @@
 
 ## BoBo Food
 
-* [menus](portfolio/graphic-design/menus/ "mention")&#x20;
+* [menus](portfolio/graphic-design-work/menus/ "mention")&#x20;
 
 <details>
 
@@ -24,7 +24,7 @@
 * Text & logo addition to album artwork
 * Event décor
 
-Most of my work for Deep Sea Frequencies can be seen on the [event-marketing.md](portfolio/event-marketing.md "mention") page, and some décor on the [event-decor.md](portfolio/event-decor.md "mention") page.&#x20;
+Most of my work for Deep Sea Frequencies can be seen on the [event-marketing.md](portfolio/graphic-design-work/event-marketing.md "mention") page, and some décor on the [event-decor.md](portfolio/event-decor.md "mention") page.&#x20;
 
 <details>
 
