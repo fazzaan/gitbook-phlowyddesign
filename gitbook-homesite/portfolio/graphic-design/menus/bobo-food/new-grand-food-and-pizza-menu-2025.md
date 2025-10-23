@@ -2,7 +2,7 @@
 icon: square-list
 ---
 
-# New Grand Food & Pizza menu (2025)
+# New Grand Food, Pizza & Pasta menu (2025)
 
 _July 2025_
 
