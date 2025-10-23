@@ -9,7 +9,7 @@
   * [Event marketing](portfolio/event-marketing.md)
   * [Menus](portfolio/graphic-design/menus/README.md)
     * [BoBo Food](portfolio/graphic-design/menus/bobo-food/README.md)
-      * [New Grand Food & Pizza menu (2025)](portfolio/graphic-design/menus/bobo-food/new-grand-food-and-pizza-menu-2025.md)
+      * [New Grand Food, Pizza & Pasta menu (2025)](portfolio/graphic-design/menus/bobo-food/new-grand-food-pizza-and-pasta-menu-2025.md)
       * [New Greek Food menu (2025)](portfolio/graphic-design/menus/bobo-food/new-greek-food-menu-2025.md)
       * [New Pizza Menu (2024)](portfolio/graphic-design/menus/bobo-food/new-pizza-menu-2024.md)
       * [Greek Food Menu (2023)](portfolio/graphic-design/menus/bobo-food/greek-food-menu-2023.md)
