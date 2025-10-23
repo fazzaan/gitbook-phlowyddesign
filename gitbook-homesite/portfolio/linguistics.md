@@ -15,7 +15,7 @@ icon: comments
 
 
 * I teach in Viet Nam and I speak Vietnamese, so I have lots of experience & knowledge and extensive specific teaching methods tailored to Vietnamese students
-* Thầy dạy trong Việt Nam và biết nói một tí tiếng Ziệt, thì mình có nhiều kinh nghiệm & kiến thức, và có nhiều phương pháp giảng dạy cụ thể mà mình đã thiết kế dành riêng cho sinh viên Việt Nam.
+* Thầy dạy ở Việt Nam và biết nói một tí tiếng Ziệt, thì mình có nhiều kinh nghiệm & kiến thức, và có nhiều phương pháp giảng dạy cụ thể mà mình đã thiết kế dành riêng cho sinh viên Việt Nam.
 
 
 
