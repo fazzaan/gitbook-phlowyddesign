@@ -15,6 +15,7 @@ icon: comments
 
 
 * I teach in Viet Nam and I speak Vietnamese, so I have lots of experience & knowledge and extensive specific teaching methods tailored to Vietnamese students
+* Thầy dạy trong Việt Nam và biết nói một tí tiếng Ziệt, thì mình có nhiều kinh nghiệm & kiến thức, và có nhiều phương pháp giảng dạy cụ thể mà mình đã thiết kế dành riêng cho sinh viên Việt Nam.
 
 
 
@@ -49,7 +50,7 @@ icon: comments
 * I create scripts (alphabets, orthographic systems, spelling patterns) for writing existing languages.&#x20;
   * Most notable is [NewEng](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/nQuhfcBU5w4vA1rwurTv/), a 41-letter alphabet for modern English, containing phonemic representation, etymology and grammatical morphology.&#x20;
   * Another notable script is NewViet, which I created to represent Vietnamese spelling in a shorter way, without changing the fundamental orthography — this is important because, despite protest from nearly everyone, the current script is actually good in that it contains more phonemic distinction than is present in (almost?) any accent, thereby allowing it to serve multiple key accents without loss of phonemic resolution. (I haven't yet published NewViet.)
-  * I designed a 2x2 block-based script ([blocktrain.md](font-design/blocktrain.md "mention")) as a commission job for a game developer. The glyphs represent Latin letters, but are entirely different. They also bear phonetic relationships to one another.
+  * I designed a 2x2 block-based script ([blocktrain.md](font-design/blocktrain.md "mention"))[^1] as a commission job for a game developer. The glyphs represent Latin letters, but are entirely different. They also bear phonetic relationships to one another.
   * I've created several others, but usually had no active application for them, so they are lost to the depths of my notebooks.
 * I gradually introduce letters and orthographic representation of my scripts to other people, mainly via posts & videos on social media, in an effort to encourage their brains to process language more flexibly.&#x20;
   * This has the domino-effect that eventually results in them being able to interpret new languages more easily.&#x20;
@@ -58,3 +59,5 @@ icon: comments
 * I create new vocabulary sets and classes, which you can see here: \
   [https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/](https://app.gitbook.com/o/bhv2aXe6eExkCxRzuAVK/s/XnkY7B2X6Gqn7ivud1qr/ "mention") / [https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/english-extensions](https://app.gitbook.com/s/XnkY7B2X6Gqn7ivud1qr/english-extensions "mention")&#x20;
 * I've come up with a few grammatical constructs for English, usually inspired by other languages like Vietnamese and Korean, but I haven't written them down yet.
+
+[^1]: The padlock 🔒 just means that you can't download the font or see it in fine detail, because it is a font that I designed for a paying client, so the usage rights belong entirely to them.
