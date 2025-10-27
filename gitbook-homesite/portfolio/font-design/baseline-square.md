@@ -8,13 +8,7 @@ coverY: 0
 
 # Baseline Square
 
-Here is a screenshot of the font in fontlab and in text:
-
-<figure><picture><source srcset="../../.gitbook/assets/img 1.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Baseline Cursive Square - fontlab glyph grid.png" alt=""></picture><figcaption><p>Not the final version — you can see some letters don't match the next screenshots.</p></figcaption></figure>
-
-<figure><picture><source srcset="../../.gitbook/assets/img 2.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Baseline Cursive Square - alphabet strings.png" alt=""></picture><figcaption><p>a-z and then the letters of NewEng: ƕ ʃ ч ð þ ȝ ʞ ŋ ꝏ ȣ φ ç æ œ и</p></figcaption></figure>
-
-<figure><picture><source srcset="../../.gitbook/assets/img 3.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Baseline Cursive Square - large sample text.png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../.gitbook/assets/Artemis in Baseline Square _Dark.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Artemis in Baseline Square _Light.png" alt=""></picture><figcaption><p>A paragraph of sample text.</p></figcaption></figure>
 
 ## Info table
 
@@ -24,8 +18,17 @@ Here is a screenshot of the font in fontlab and in text:
 
 ## Letters
 
-* NewEng script etc
-* Vector image of all glyphs
+Here is a screenshot of the alphabet in FontLab:
+
+<figure><picture><source srcset="../../.gitbook/assets/img 1.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Baseline Cursive Square - fontlab glyph grid.png" alt=""></picture><figcaption><p>Not the final version — you can see some letters don't match the next screenshots.</p></figcaption></figure>
+
+<figure><picture><source srcset="../../.gitbook/assets/img 2.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Baseline Cursive Square - alphabet strings.png" alt=""></picture><figcaption><p>a-z and then the letters of NewEng: ƕ ʃ ч ð þ ȝ ʞ ŋ ꝏ ȣ φ ç æ œ и</p></figcaption></figure>
+
+### Sample words
+
+* Vector images of a range of words, specifically ones containing NewEng letters
+
+<figure><picture><source srcset="../../.gitbook/assets/img 3.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Baseline Cursive Square - large sample text.png" alt=""></picture><figcaption></figcaption></figure>
 
 ### Diacritics
 
@@ -39,10 +42,6 @@ Here is a screenshot of the font in fontlab and in text:
 * Vector image of dot-derived numerals
 
 
-
-## Sample words
-
-* Vector images of a range of words, specifically ones containing NewEng letters
 
 ***
 
