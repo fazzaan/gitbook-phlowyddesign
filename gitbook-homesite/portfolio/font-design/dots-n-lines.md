@@ -6,7 +6,7 @@ coverY: 0
 
 # Dots N Lines
 
-<figure><img src="../../.gitbook/assets/Dots N Lines Font Cover landscape.svg" alt=""><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../.gitbook/assets/Space in Dots N Line _Dark.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Space in Dots N Line _Light.png" alt=""></picture><figcaption></figcaption></figure>
 
 This image shows all the letters of the font, grouped & sequenced by similarity in shape.
 
@@ -32,7 +32,7 @@ _None yet._&#x20;
 
 * dots n lines — decimal
 * dots n lines — dozenal ↊ ↋
-* dots n lines — decimal — dot-derived (see [blocktrain.md](blocktrain.md "mention")) (store as alternate numeral glyphs)
+* dots n lines — decimal — dot-derived (see [blocktrain](blocktrain/ "mention")) (store as alternate numeral glyphs)
 * dots n lines — dozenal — dot-derived (store as alternate numeral glyphs — is that possible)
 
 ## Sample words

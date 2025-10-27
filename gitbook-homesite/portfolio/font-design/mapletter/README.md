@@ -1,8 +1,8 @@
 ---
 icon: map-location-dot
 cover:
-  light: ../../.gitbook/assets/Yu the sheep in MapLetter 3.png
-  dark: ../../.gitbook/assets/Yu the sheep in MapLetter 3 _Dark.png
+  light: ../../../.gitbook/assets/Yu the sheep in MapLetter 3.png
+  dark: ../../../.gitbook/assets/Yu the sheep in MapLetter 3 _Dark.png
 coverY: 0
 ---
 
@@ -14,7 +14,7 @@ His clients' maps are typically used in video games, table top games, and inside
 
 Visit the Instagram page of [**Matthew W Bines, graphic cartographer**](https://www.instagram.com/matthew.w.art/), he is open for commissions!
 
-<figure><picture><source srcset="../../.gitbook/assets/Yu the sheep in MapLetter 3 _Dark.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Yu the sheep in MapLetter 3.png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../../.gitbook/assets/Yu the sheep in MapLetter 3 _Dark.png" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/Yu the sheep in MapLetter 3.png" alt=""></picture><figcaption></figcaption></figure>
 
 ## Info table
 
@@ -34,7 +34,7 @@ _↓ \[ may add later ] ↓_
 
 
 
-## Letters
+## Alphabet
 
 * RASTER image of SOME letter glyphs
 

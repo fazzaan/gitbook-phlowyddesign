@@ -16,7 +16,7 @@ coverY: 0
 
 
 
-## Letters
+## Alphabet
 
 Here is a screenshot of the alphabet in FontLab:
 
