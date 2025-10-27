@@ -1,3 +1,10 @@
+---
+cover:
+  light: ../../../.gitbook/assets/BlockTrain Both Cover _Light.png
+  dark: ../../../.gitbook/assets/BlockTrain Both Cover _Dark.png
+coverY: 287.48287282818535
+---
+
 # 🚂 BlockTrain 🔒
 
 Click the tabs to switch view between Block style and Hand style.

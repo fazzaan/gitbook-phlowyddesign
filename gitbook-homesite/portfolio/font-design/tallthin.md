@@ -1,6 +1,8 @@
 ---
 icon: tally-2
-cover: ../../.gitbook/assets/TallThin Font Cover landscape.svg
+cover:
+  light: ../../.gitbook/assets/Tree Gold in TallThin _Light.png
+  dark: ../../.gitbook/assets/Tree Gold in TallThin _Dark.png
 coverY: 0
 ---
 

@@ -1,16 +1,18 @@
 ---
 icon: envira
 cover: ../../.gitbook/assets/Leaf Tech Font Cover landscape.svg
-coverY: 0
+coverY: -91.16593267374517
 ---
 
 # Leaf Tech
 
-<div data-full-width="false"><figure><img src="../../.gitbook/assets/Leaf Tech Font Cover landscape.svg" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><picture><source srcset="../../.gitbook/assets/Sap Dripped in Leaf Tech _Dark.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Sap Dripped in Leaf Tech _Light.png" alt=""></picture><figcaption></figcaption></figure></div>
 
 <table><thead><tr><th width="199">Name</th><th width="432">Leaf Tech</th></tr></thead><tbody><tr><td>Version</td><td>1.371</td></tr><tr><td>Latest release</td><td>28th July 2021</td></tr><tr><td>Inception</td><td>March 2021</td></tr><tr><td>Supported scripts</td><td>Latin, Vietnamese <em>(all tones)</em></td></tr><tr><td>Other glyphs</td><td>Numbers, some punctuation and some basic symbols</td></tr><tr><td>Issues</td><td>Stroke is basic and unstyled. Perhaps too thin.</td></tr><tr><td>GitHub</td><td><a href="https://github.com/fazzaan/font-leaftech">github.com/fazzaan/font-leaftech</a></td></tr><tr><td>Behance</td><td>-</td></tr><tr><td>Font sites</td><td>-</td></tr></tbody></table>
 
 
+
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/Leaf Tech Font Cover landscape.svg" alt=""><figcaption></figcaption></figure></div>
 
 This was going to be a showcase, but creating this portfolio has helped me discover all the unfinished aspects of each of my projects. Now, it is instead a catalogue, a) to showcase my work, and b) as a project tracker to develop my project management skills.
 
@@ -107,6 +109,12 @@ In NewEng, double-layer diacritiqued consonants include: S̈̌  Ç̌  Ẍ̌ &#x2
 <summary>Diacritics — LOWERcase, double layer</summary>
 
 "Double layer" means that some languages combine two diacritics onto the same letter. This poses some challenges in font design: diacritic shape, diacritic size, diacritic positioning, combined positioning; letter kerning alterations; line-height.&#x20;
+
+{% hint style="info" %}
+update October 2025: I have recently learned how to use FontLab and diacritic anchors are WAY easier in there so I'll rebuild all of this stuff in the future if\* & when I do a remake of Leaf Tech.&#x20;
+
+\*("if" because I'm not sure if I even like this font tbh.)
+{% endhint %}
 
 ### Vowels
 

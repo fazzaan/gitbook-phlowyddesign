@@ -1,11 +1,31 @@
 ---
-cover: ../../.gitbook/assets/Hangeulic Font Cover landscape.svg
-coverY: 0
+cover:
+  light: ../../.gitbook/assets/Sap Dripped in NewEng Hangeulic Bold _Light.png
+  dark: ../../.gitbook/assets/Sap Dripped in NewEng Hangeulic Bold _Dark.png
+coverY: 319.43686655405406
 ---
 
 # 🇰🇷 Hangeulic
 
-<div data-full-width="false"><figure><img src="../../.gitbook/assets/Hangeulic Font Cover landscape.svg" alt=""><figcaption></figcaption></figure></div>
+{% hint style="info" %}
+_Hangeulic_ will be renamed in the near future. It originated on the concept of how Hangeul glyphs are drawn, but the end result is not really anything like Hangeul glyphs. Moreover, I have another font design in my notepad which looks much more like Hangeul (although also a bit like Katakana), so this one certainly should not be named as such.
+
+There are also multiple modifications required for this font, such as the brush tip angle (which causes problems in letters with \~45° lines like K, M, Y, X, Z.
+
+This font would also be ideal for experimenting with variable width font design, as I've never played with that but it is becoming a widespread feature in modern typefaces and typographic needs.
+
+Anchors for diacritics are difficult to manage in FontForge. Considering this and all the points above, I am preparing to rebuild this font entirely in FontLab.
+{% endhint %}
+
+{% tabs %}
+{% tab title="Hanguelic Bold" %}
+<div data-full-width="false"><figure><picture><source srcset="../../.gitbook/assets/Sap Dripped in NewEng Hangeulic Bold _Dark.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Sap Dripped in NewEng Hangeulic Bold _Light.png" alt=""></picture><figcaption></figcaption></figure></div>
+{% endtab %}
+
+{% tab title="Hangeulic Regular" %}
+<figure><picture><source srcset="../../.gitbook/assets/Sap Dripped in NewEng Hangeulic Regular _Dark.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Sap Dripped in NewEng Hangeulic Regular _Light.png" alt=""></picture><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 <table><thead><tr><th width="194" valign="top">Name</th><th width="314">Hangeulic</th></tr></thead><tbody><tr><td valign="top">Version</td><td>1.005</td></tr><tr><td valign="top">Latest release</td><td>24th May 2024</td></tr><tr><td valign="top">Inception</td><td>May 2024</td></tr><tr><td valign="top">Supported scripts</td><td><ul><li>Latin </li></ul><ul><li>NewEng <em>(no diacritics yet)</em></li></ul><ul><li>Vietnamese </li></ul></td></tr><tr><td valign="top">Other glyphs</td><td>No numbers, punctuation or basic symbols</td></tr><tr><td valign="top">Variants</td><td><p><strong>Regular</strong> — 1.003</p><p><strong>Chunky</strong> — 1.005 </p></td></tr><tr><td valign="top">Issues</td><td><ul><li>Incomplete parity between typeface weights at present.</li><li>Only uppercase.</li></ul></td></tr><tr><td valign="top">GitHub</td><td><a href="https://github.com/fazzaan/font-hangeulic">github.com/fazzaan/font-hangeulic</a></td></tr><tr><td valign="top">Behance</td><td>-</td></tr><tr><td valign="top">Font sites</td><td>-</td></tr></tbody></table>
 
@@ -15,9 +35,9 @@ coverY: 0
 
 The NewEng script (mine, not another by the same name), includes all 26 English alphabet letters, plus another 15 borrowed from other scripts and eras.
 
-A Æ B C Ç D E F Φ Þ Đ G Ȝ H Ƕ I J K Ʞ L M N И Ŋ O Œ P Q R S Ʃ T Ч U Ȣ V W Ꝏ/Ѡ X Y Z
+A Æ B C Ç D E F Φ Þ Đ G Ȝ H Ƕ I J K Ʞ L M N И Ŋ O Œ P Q R S Ʃ T Ч U Ȣ V W Ꝏ X Y Z
 
-a æ b c ç d e f φ þ ð g ȝ h ƕ i j k ʞ l m n и ŋ o œ p q r s ʃ t ч u ȣ v w ꝏ/ѡ x y z
+a æ b c ç d e f φ þ ð g ȝ h ƕ i j k ʞ l m n и ŋ o œ p q r s ʃ t ч u ȣ v w ꝏ x y z
 
 <div><figure><img src="../../.gitbook/assets/Alphabet Hangeulic Regular Uppercase.svg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Alphabet Hangeulic Chunky Uppercase.svg" alt=""><figcaption></figcaption></figure></div>
 
