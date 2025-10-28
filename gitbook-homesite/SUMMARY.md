@@ -14,6 +14,7 @@
       * [New Pizza Menu (2024)](portfolio/graphic-design-work/menus/bobo-food/new-pizza-menu-2024.md)
       * [Greek Food Menu (2023)](portfolio/graphic-design-work/menus/bobo-food/greek-food-menu-2023.md)
   * [Text, Logo, Imagery](portfolio/graphic-design-work/text-logo-imagery/README.md)
+    * [La Llamada (Logo)](portfolio/graphic-design-work/text-logo-imagery/la-llamada-logo.md)
     * [Triskelagua case study](portfolio/graphic-design-work/text-logo-imagery/triskelagua-case-study.md)
 * [🅰️ Font Design](portfolio/font-design/README.md)
   * [MapLetter 🔒](portfolio/font-design/mapletter/README.md)

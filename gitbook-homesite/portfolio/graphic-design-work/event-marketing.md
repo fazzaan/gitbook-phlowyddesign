@@ -24,7 +24,7 @@ _October 2025_
 
 Tools: Photoshop
 
-🌐��_B̄ehance link_
+🌐 _B̄ehance link_
 
 This flyer was created using a meld of several previous flyers, combining logo styling, geometric patterns, and backdrop colouring. In every creation, efforts are always made to use or create a vector format of the musicians' stage names so that the graphic effects are applied cleanly.
 
@@ -40,7 +40,7 @@ _January 2025_
 
 Tools: Photoshop
 
-🌐��_B̄ehance link_
+🌐 _B̄ehance link_
 
 <figure><img src="../../.gitbook/assets/Facebook Post Image - REBRAND NOTIFICATION (1).jpg" alt=""><figcaption><p>Image for notification post on <mark style="color:blue;">Facebook</mark> [<a href="https://www.facebook.com/DeepSeaFrequencies">facebook page</a>]</p></figcaption></figure>
 
