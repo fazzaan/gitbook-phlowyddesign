@@ -62,7 +62,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Photoshop
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/208870751/Psychedelic-Jelly-20th-Edition-Globular-Quanta-more)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/208870751/Psychedelic-Jelly-20th-Edition-Globular-Quanta-more)
 
 <div><figure><img src="../../.gitbook/assets/PJ020 - PsyJelly 20th Edition facebook banner.jpg" alt="" width="563"><figcaption><p><em>Facebook event banner</em></p></figcaption></figure> <figure><img src="../../.gitbook/assets/PJ020 - psyjelly 20th - Print flyer - RGB.jpg" alt="" width="563"><figcaption><p><em>A5 flyer for print</em></p></figcaption></figure></div>
 
@@ -76,7 +76,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/184796767/Psychedelic-Jelly-19-MantisMash-Pangani-Encounters)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/184796767/Psychedelic-Jelly-19-MantisMash-Pangani-Encounters)
 
 Like the design for [PsyJelly 15](event-marketing.md#psyjelly-15-globular-and-geoglyph), all the effects in this design were achieved using the blending effects inside Photoshop.
 
@@ -96,7 +96,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Blender, Photoshop
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/176359653/Psychedelic-Jelly-18-Culprate-Shankara-Beatroots)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/176359653/Psychedelic-Jelly-18-Culprate-Shankara-Beatroots)
 
 I wasn't originally going for such a geometric form, but I created this accidentally via a repeating-shape modifier in Blender, and thought it looked really cool, so I went with it.
 
@@ -118,7 +118,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Photoshop
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/164915925/Event-banner-Pitch-Black-The-MoonRakers)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/164915925/Event-banner-Pitch-Black-The-MoonRakers)
 
 <figure><img src="../../.gitbook/assets/Pitch Black 2023 - facebook - right handed.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -132,7 +132,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Mandelbulb, Blender, Photoshop
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/164827263/Psychedelic-Jelly-17-live-music-event-flyer)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/164827263/Psychedelic-Jelly-17-live-music-event-flyer)
 
 <figure><img src="../../.gitbook/assets/PJ017 - Jan 2023 - FB Event Banner.jpg" alt=""><figcaption><p>Final render for print and web</p></figcaption></figure>
 
@@ -148,7 +148,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Blender, Photoshop
 
-🌐[��_B̄ehance link_](https://www.behance.net/gallery/164741815/Psychedelic-Jelly-16-2-rooms-flyer-FB)
+🌐[ _B̄ehance link_](https://www.behance.net/gallery/164741815/Psychedelic-Jelly-16-2-rooms-flyer-FB)
 
 This was my first real dip into using Blender. I had been playing with it for a few weeks prior, building an underwaterscape around my first 3D model of the PsyJelly logo.
 
@@ -180,7 +180,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Photoshop
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/164738517/Psychedelic-Jelly-15-Globular-and-Geoglyph-flyer-FB)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/164738517/Psychedelic-Jelly-15-Globular-and-Geoglyph-flyer-FB)
 
 All the effects in this image are achieved solely using Photoshop's _blending effects_ panel.
 
@@ -196,7 +196,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Inkscape, Photoshop
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/126215901/Psychedelic-Jelly-14-facebook-event-banner-image)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/126215901/Psychedelic-Jelly-14-facebook-event-banner-image)
 
 I had a lot of fun with this design. Combining these colours is an absolute joy, and I resurrected the jellyfish graphic from [📄my first PsyJelly flyer](event-marketing.md#psyjelly-2). I made extensive use of up-lighting in this image.
 
@@ -212,7 +212,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Photoshop
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/125087323/Psychedelic-Jelly-13-Double-EP-launch-party)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/125087323/Psychedelic-Jelly-13-Double-EP-launch-party)
 
 <figure><img src="../../.gitbook/assets/PJ013 - facebook banner PSD 08.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -226,7 +226,7 @@ _Online,_ [_DanceCulture.net_](#user-content-fn-2)[^2]
 
 Tools: Hand-drawn, Inkscape
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/125086295/Psychedelic-Jelly-12-Beltane-Danceculture-livestream)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/125086295/Psychedelic-Jelly-12-Beltane-Danceculture-livestream)
 
 This was the first time I did not have my own laptop available! So I had to improvise. I drew some of the text by hand (some of which later developed into a whole font, although I never digitised it), and had to compose the image using Inkscape which was able to run well enough on the hostel admin computer where I was staying.
 
@@ -242,7 +242,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Photoshop, and lots of visualisation
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/125057301/Psychedelic-Jelly-11-Beatroots-Bayawaka)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/125057301/Psychedelic-Jelly-11-Beatroots-Bayawaka)
 
 This flyer was really complicated to create. I tried to make the flyer paper appear be translucent, like peering through a slice of the sea. Everything I did on one side, I wrapped into a "smart object" in Photoshop and underlaid it in the background of the other side, applying a blur filter to it. My laptop of the time was not very powerfull so the process of constant re-editing took a verrrry long time.
 
@@ -264,7 +264,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Hand-drawn, watercolour paint, Photoshop
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/124721351/Psychedelic-Jelly-9-Mycelium-Marshland-2)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/124721351/Psychedelic-Jelly-9-Mycelium-Marshland-2)
 
 _Co-operative event between Mycelium Marshland and Psychedelic Jelly_
 
@@ -282,7 +282,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Photoshop
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/124252705/Psychedelic-Jelly-8-Animal-Behaviour-Dub-vs-Psydub)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/124252705/Psychedelic-Jelly-8-Animal-Behaviour-Dub-vs-Psydub)
 
 _Co-designed with Jonah P-F_
 
@@ -300,7 +300,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Photoshop
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/70299131/Psychedelic-Jelly-7)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/70299131/Psychedelic-Jelly-7)
 
 _Speaker rig provided by SubSolar Sound Control of Bristol & Avon_
 
@@ -316,7 +316,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Photoshop
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/65489261/Psychedelic-Jelly-6-Navigate)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/65489261/Psychedelic-Jelly-6-Navigate)
 
 Co-designed with Tom Chant // Wolf Tech
 
@@ -332,7 +332,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Photoshop
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/65488801/Psychedelic-Jelly-5)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/65488801/Psychedelic-Jelly-5)
 
 <figure><img src="../../.gitbook/assets/PJ005 - facebook post image 4.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -346,7 +346,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Photoshop, Inkscape
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/65488623/Psychedelic-Jelly-4)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/65488623/Psychedelic-Jelly-4)
 
 <figure><img src="../../.gitbook/assets/PJ004 - jellyfish poster landscape 03.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -360,7 +360,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Photoshop, Inkscape, watercolour paint
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/65485995/Psychedelic-Jelly-3)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/65485995/Psychedelic-Jelly-3)
 
 _Jellyfish designed and painted by Leah Branwen-Gilly. Thank you Leah!_ 🙏🪼
 
@@ -378,7 +378,7 @@ _Bristol, Avon, United Kingdom_
 
 Tools: Photoshop, Inkscape
 
-[🌐��_B̄ehance link_](https://www.behance.net/gallery/65418667/Psychedelic-Jelly-2)
+[🌐 _B̄ehance link_](https://www.behance.net/gallery/65418667/Psychedelic-Jelly-2)
 
 <figure><img src="../../.gitbook/assets/PJ002 - jellyfish yellow.jpg" alt=""><figcaption></figcaption></figure>
 
