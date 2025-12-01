@@ -116,14 +116,20 @@ In bits and pieces, I've experimented with various ways of depicting numerical v
 
 Once I accidentally discovered a way to derive our modern numerals from dots. I don't know if this is how they originated, but it works surprisingly well.
 
-* _include derivation here (photo sent to Ryan)_
+* _include derivation here (post-it photo)_
 
-During the process of script development for a commission job, I derived new numerals for the script using the same dot-based approach. The result was a series of number glyphs which I actually prefer over our own current glyphs — they are dyslexia-friendly, non-ambiguous shapes, and extend to dozenal's 9+1 and 9+2 glyphs, still drawable with a singular unbroken line.
+During the process of script development for a commission job, I derived new numerals for the script using the same dot-based approach. The result was a series of number glyphs which I actually prefer over our own current glyphs — they are dyslexia-friendly, non-ambiguous shapes, and extend to dozenal's 9+1 and 9+2 glyphs, still drawable with a singular unbroken line (except the numeral for 7, which takes 2 strokes).
 
 I intend to extend my typeface catalogue with these numerals, contained as alternate numeral glyphs.
 
 * _include vector image of new numerals in a few typefaces_
 * _include link to dedicated page if I create one. Perhaps on my linguistics gitbook site._
+
+{% hint style="success" %}
+You can learn more about my numerals and the dozenal counting system (base 12) here:
+
+[https://lang.gitbook.io/conlangs/creations/numbers](https://lang.gitbook.io/conlangs/creations/numbers)&#x20;
+{% endhint %}
 
 [^1]: "both" but for three things. i made this word; you're welcome.
 
