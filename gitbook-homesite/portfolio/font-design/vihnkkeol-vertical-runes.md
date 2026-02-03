@@ -4,7 +4,9 @@ icon: transmission
 
 # Vihnkkeol Vertical Runes
 
-This is the first font of its kind, designed for con-script "Vihnkkeol" for conlang "lhaedy tṡukh thul", created by Dr. Nyeh.
+This is the first font of its kind, designed for con-script "Vihnkkeol" for con-lang "lhaedy tṡukh thul", created by eldritch lore-architect Dr. L.A.M. Nyeh.
+
+Vihnkkeol is pronounced somewhat like _fin-coal_, unless you are a species without lips in which case it's more like _thin-coal_. The _lhaedy tṡukh thul_ language is spoken by a species of energetic entities who have been traversing throth space, interdimensional highways & non-Euclidean crevices since literally before time, and as such they have no need for lips. They typically inhabit rocks, black holes (unintentionally, as they cannot escape without someone else freeing them), pocket dimensions, and soul-vacated bodies of sentient agentic creatures such as humans and other limbed creatures who spend too long in The Stream.
 
 Links will be added soon to show you more of Nyeh's works.
 
