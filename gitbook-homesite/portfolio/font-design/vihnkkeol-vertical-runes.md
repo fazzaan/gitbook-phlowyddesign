@@ -12,9 +12,13 @@ Links will be added soon to show you more of Nyeh's works.
 
 * Conscript _Vihnkkeol_ is written vertically, top-to-bottom, left-to-right. _You can enable this setting in most word processors and graphics apps._
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Here is the font file viewed in Gnome's font viewer app.
+
 Please rotate your head, or your screen, 90° to correctly view this script!
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Image of font at v0.300</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Image of font at v0.300</p></figcaption></figure>
 
 ## Info
 
